@@ -139,9 +139,11 @@ errors, no page errors, no failed requests, widgets present, real values present
 the visuals, and no horizontal overflow at 1280 and 1920 px. Screenshots land in
 `site_build/shots/`.
 
-Local run (`http://127.0.0.1:8177`): **44 checks, 0 failed, 0 console errors, 0 failed requests** —
-including `A3 indicator filter changes map legend`, `B1 search changes tiles`,
-`B1 zoning layer loads`, `A2 template — demographics/housing/mobility/economics/services`,
+Local run (`http://127.0.0.1:8177`): **50 checks, 0 failed, 0 console errors, 0 failed requests** —
+including `A3 indicator filter changes map legend`, `A3 selected card carries real values`,
+`A3 filter bar fits one line`, `B1 search changes tiles`, `B1 legend clear of tiles`,
+`B1 zoning layer loads`, `B2 comparison bars are visible`, `B2 gross rent resolves from the KPI table`,
+`B3 tract card renders`, `A2 template — demographics/housing/mobility/economics/services`,
 `width 1280 / 1920 no horizontal overflow`, and `root index links both alternatives`.
 
 Live run against the GitHub Pages URL: see §8 below.

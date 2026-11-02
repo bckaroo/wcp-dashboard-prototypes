@@ -462,8 +462,8 @@
     const filtered = mapState.geo ? rows.filter((r) => WCP.townKey(r.name) === WCP.townKey(mapState.geo)) : rows;
     const selected = mapState.geo || 'Yonkers city';
     const selRow = muniRow(selected, 'total_population');
-    const selProp = (S.munis.features.filter((f) => f.properties.mun_name_county.replace(/ (town|city)$/i, '') === selected.replace(/ (town|city)$/i, ''))[0] || {}).properties || {};
-    const selPop = selProp.pop_total;
+    const selProp = (S.munis.features.filter((f) => WCP.townKey(f.properties.mun_name_county) === WCP.townKey(selected))[0] || {}).properties || {};
+    const selPop = selRow && selRow.value !== '' ? Number(selRow.value) : null;
 
     const chartRows = rows.slice(0, 6).map((r) => ({
       label: r.name, value: r.value, display: WCP.fmt(ind, r.value),
@@ -485,7 +485,7 @@
         </select>
         <select id="f-ind" aria-label="Indicator">${indicatorOptions(mapState.theme)}</select>
         <select aria-label="Vintage" disabled><option>ACS 2020–2024</option></select>
-        <span class="meta"><span id="shown-count">${filtered.length}</span> of ${WCP.profiledMunis().length} profiled municipalities shown</span>
+        <span class="meta"><span id="shown-count">${filtered.length}</span> of ${rows.length} municipalities with an ACS profile</span>
         <button class="linkish" id="f-reset">Reset filters</button>
       </div>
     </div>
@@ -512,7 +512,7 @@
           <div class="sel-card">
             <div class="lbl">Selected geography</div>
             <h2 id="sel-name">${WCP.esc(selected)}</h2>
-            <p class="sub" id="sel-sub">${selPop ? 'Population ' + WCP.nf(selPop, 0) : ''}</p>
+            <p class="sub" id="sel-sub">${selPop != null ? 'Population ' + WCP.nf(selPop, 0) + ' · ' + (selProp.mun_type || '') : 'No ACS profile — village, not a census county subdivision'}</p>
             <div class="sel-metrics">
               <div><strong class="accent" id="sel-v1">—</strong><span>${WCP.esc(meta.label)}</span></div>
               <div><strong id="sel-v2">—</strong><span>Owner-occupied</span></div>
@@ -573,15 +573,28 @@
 
   function updateSelection(name) {
     const meta = S.meta[mapState.ind];
-    const f = S.munis.features.filter((x) => x.properties.mun_name_county === name)[0];
+    // The municipalities layer carries the county's short name ("Yonkers"); the KPI
+    // tables and the select controls carry the ACS geography name ("Yonkers city").
+    // Match on the canonical town key so a place with a profile is never shown as
+    // "pending".
+    const key = WCP.townKey(name);
+    const f = S.munis.features.filter((x) => WCP.townKey(x.properties.mun_name_county) === key)[0];
     const p = f ? f.properties : {};
+    const row = (ind) => {
+      const r = WCP.townValue(name, ind);
+      return r && r.value !== '' && r.value != null ? Number(r.value) : null;
+    };
     document.querySelector('#sel-name').textContent = name;
-    document.querySelector('#sel-sub').textContent = p.pop_total
-      ? 'Population ' + WCP.nf(p.pop_total, 0) + ' · ' + (p.mun_type || '') : 'No ACS profile — village not a census county subdivision';
-    const v1 = p[WCP.pctField(mapState.ind)];
+    const pop = row('total_population');
+    document.querySelector('#sel-sub').textContent = pop != null
+      ? 'Population ' + WCP.nf(pop, 0) + ' · ' + (p.mun_type || '')
+      : 'No ACS profile — village, not a census county subdivision';
+    const v1 = row(mapState.ind);
     document.querySelector('#sel-v1').textContent = v1 == null ? 'pending' : WCP.fmt(mapState.ind, v1);
-    document.querySelector('#sel-v2').textContent = p.owner_rate == null ? '—' : pct(p.owner_rate);
-    document.querySelector('#sel-v3').textContent = p.median_hh_income == null ? '—' : WCP.fmt('median_household_income', p.median_hh_income);
+    const v2 = row('owner_rate');
+    document.querySelector('#sel-v2').textContent = v2 == null ? '—' : pct(v2);
+    const v3 = row('median_household_income');
+    document.querySelector('#sel-v3').textContent = v3 == null ? '—' : WCP.fmt('median_household_income', v3);
     document.querySelectorAll('#result-table tbody tr').forEach((tr) =>
       tr.classList.toggle('selected', tr.getAttribute('data-name') === name));
   }

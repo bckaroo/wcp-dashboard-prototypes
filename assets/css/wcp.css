@@ -235,9 +235,11 @@ table.tbl tbody tr.selected { background: #EFF6F1; }
 
 /* ---------------------------------------------------------- map + layout */
 .filter-bar { background: var(--surface); border-bottom: 1px solid var(--border); }
-.filter-bar .wrap { display: flex; align-items: center; gap: 12px; height: 62px; }
-.filter-bar .meta { margin-left: auto; font-size: 11.5px; color: var(--g500); }
-.filter-bar select { min-width: 168px; }
+.filter-bar .wrap { display: flex; align-items: center; gap: 10px; height: 62px; flex-wrap: nowrap; }
+.filter-bar .wrap .lbl { flex: 0 0 auto; }
+.filter-bar .meta { margin-left: auto; font-size: 11.5px; color: var(--g500); white-space: nowrap; flex: 0 0 auto; }
+.filter-bar select { flex: 1 1 0; min-width: 0; max-width: 260px; }
+.filter-bar .linkish { white-space: nowrap; flex: 0 0 auto; }
 
 .map-layout { display: grid; grid-template-columns: 1fr 452px; gap: 24px; margin-top: 22px; align-items: start; }
 .map-card { position: relative; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; background: var(--map-bg); }
@@ -287,7 +289,7 @@ table.tbl tbody tr.selected { background: #EFF6F1; }
 .right-col { display: flex; flex-direction: column; gap: 20px; }
 
 /* ------------------------------------------------------------ B layout */
-.explorer { display: grid; grid-template-columns: 354px 1fr; min-height: calc(100vh - 112px); }
+.explorer { display: grid; grid-template-columns: 354px 1fr; min-height: calc(100vh - 147px); }
 .sidebar { border-right: 1px solid var(--border); padding: 18px 24px 24px; background: #fff; }
 .sidebar .grp { margin-bottom: 18px; }
 .sidebar .lbl { font-size: 9.5px; letter-spacing: 1.2px; text-transform: uppercase; color: var(--g500); font-weight: 600; margin-bottom: 7px; }
@@ -297,7 +299,8 @@ table.tbl tbody tr.selected { background: #EFF6F1; }
 .sidebar .hint { font-size: 10.5px; color: var(--g500); line-height: 1.45; padding-top: 12px; border-top: 1px solid var(--border); margin-top: 18px; }
 .sidebar .btn.full { margin-top: 18px; }
 .explorer-map { position: relative; background: var(--map-bg); }
-.explorer-map .map-canvas { height: calc(100vh - 112px); min-height: 620px; }
+.explorer-map .map-canvas { height: calc(100vh - 147px); min-height: 620px; }
+.explorer-map .legend { left: 24px; bottom: 128px; }
 .explorer .map-toolbar { position: absolute; top: 14px; right: 14px; z-index: 3; display: flex; gap: 8px; }
 
 .tile-row { position: absolute; left: 24px; right: 24px; bottom: 18px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; z-index: 3; }

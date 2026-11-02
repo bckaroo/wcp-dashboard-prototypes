@@ -194,12 +194,19 @@
   function renderTractCard(p) {
     const box = document.querySelector('#tract-card');
     if (!box) return;
+    // A deep link (#map?tract=<GEOID>) arrives with the GEOID only, so merge the tract
+    // KPI index in: without it the card would show dashes for a tract that has data.
+    const k = (WCP.S && WCP.S.tractKpi && WCP.S.tractKpi[p.GEOID]) || {};
+    const d = Object.assign({}, k, p);
+    const name = (p.NAME && p.NAME.indexOf('Census tract 3') !== 0) ? p.NAME : (k.__name || ('Census Tract ' + d.GEOID));
+    const burden = d.pct_rent_burden30;
+    const pop = d.pop_total != null ? d.pop_total : d.total_population;
     box.innerHTML = `<div class="tract-card">
-      <h5>${WCP.esc(p.NAME || ('Census tract ' + p.GEOID))}</h5>
-      <div class="sub">Census tract ${WCP.esc(p.GEOID)} · ACS 2020–2024</div>
+      <h5>${WCP.esc(name)}</h5>
+      <div class="sub">Census tract ${WCP.esc(d.GEOID)} · ACS 2020–2024</div>
       <div class="vals">
-        <div><strong>${pct(p.pct_rent_burden30)}</strong><span>cost-burdened</span></div>
-        <div><strong>${p.pop_total != null ? WCP.nf(p.pop_total, 0) : (p.b01003_001 != null ? WCP.nf(p.b01003_001, 0) : '—')}</strong><span>residents</span></div>
+        <div><strong>${burden != null ? pct(burden) : '—'}</strong><span>cost-burdened</span></div>
+        <div><strong>${pop != null ? WCP.nf(pop, 0) : '—'}</strong><span>residents</span></div>
       </div>
       <div class="foot">Tract view · margins of error apply</div>
     </div>`;
@@ -309,21 +316,32 @@
   }
 
   /* ------------------------------------------------------------- profile */
+  /* Each row compares one place against the county in its own units, so the bar and the
+     county rule are scaled per row: the row maximum (value or county, whichever is
+     larger) fills the track. A shared scale across rows would make a 54% bar
+     invisible next to a $118,976 income row. */
   function compBars(items) {
-    const rowH = 44, top = 10, W = 600;
-    const H = top + items.length * rowH + 8;
-    const labelW = 138, valueW = 84;
-    const max = Math.max.apply(null, items.map((i) => Math.max(i.value, i.ref))) * 1.08;
-    const barMax = W - labelW - valueW;
-    let out = [`<svg class="chart-svg" viewBox="0 0 ${W} ${H}" role="img" aria-label="Comparison with the county">`];
+    const rowH = 46, top = 12, W = 620;
+    const H = top + items.length * rowH + 4;
+    const labelW = 152, valueW = 76;
+    const barMax = W - labelW - valueW - 10;
+    const out = [`<svg class="chart-svg" viewBox="0 0 ${W} ${H}" role="img" aria-label="Comparison with the county">`];
     items.forEach((it, i) => {
       const y = top + i * rowH;
-      const w = (it.value / max) * barMax;
-      out.push(`<text x="${labelW - 10}" y="${y + 16}" text-anchor="end" font-size="11" fill="#4C4C51" font-family="Public Sans, sans-serif">${WCP.esc(it.label)}</text>`);
-      out.push(`<rect x="${labelW}" y="${y + 4}" width="${w.toFixed(1)}" height="14" rx="1.5" fill="${it.color}"/>`);
-      const tick = (it.ref / max) * barMax;
-      out.push(`<line x1="${labelW + tick}" y1="${y}" x2="${labelW + tick}" y2="${y + 22}" stroke="#212529" stroke-width="1.4"/>`);
-      out.push(`<text x="${labelW + w + 8}" y="${y + 16}" font-size="10.5" fill="#4C4C51" font-family="Public Sans, sans-serif">${WCP.esc(it.display)}</text>`);
+      const v = it.value == null || isNaN(it.value) ? null : Number(it.value);
+      const ref = it.ref == null || isNaN(it.ref) ? null : Number(it.ref);
+      const rowMax = Math.max(v || 0, ref || 0) * 1.16 || 1;
+      out.push(`<text x="${labelW - 12}" y="${y + 16}" text-anchor="end" font-size="11" fill="#4C4C51" font-family="Public Sans, sans-serif">${WCP.esc(it.label)}</text>`);
+      out.push(`<rect x="${labelW}" y="${y + 3}" width="${barMax.toFixed(1)}" height="15" rx="1.5" fill="#F1F2F0"/>`);
+      if (v != null) {
+        const w = (v / rowMax) * barMax;
+        out.push(`<rect x="${labelW}" y="${y + 3}" width="${Math.max(w, 1).toFixed(1)}" height="15" rx="1.5" fill="${it.color}"/>`);
+      }
+      if (ref != null) {
+        const tick = (ref / rowMax) * barMax;
+        out.push(`<line x1="${labelW + tick}" y1="${y}" x2="${labelW + tick}" y2="${y + 21}" stroke="#212529" stroke-width="1.4"/>`);
+      }
+      out.push(`<text x="${W - valueW + 6}" y="${y + 16}" font-size="10.5" fill="#4C4C51" font-family="Public Sans, sans-serif">${WCP.esc(it.display)}</text>`);
     });
     out.push('</svg>');
     return out.join('');
@@ -362,24 +380,45 @@
       median_household_income: 'Median household income',
       total_population: 'Population',
     };
+    // The municipalities layer carries a slim subset of ACS fields; the KPI tables carry
+    // the full set (median gross rent and occupied units are layer-absent). Read the
+    // table first and fall back to the layer property.
+    const tableVal = (ind) => {
+      const r = townRow(name, ind);
+      return r && r.value !== '' && r.value != null ? Number(r.value) : null;
+    };
+    const val = (ind) => {
+      const t = tableVal(ind);
+      if (t != null) return t;
+      const v = p[prop(ind)];
+      return v == null || v === '' ? null : Number(v);
+    };
     const kpis = Object.keys(inds).map((ind) => {
-      const mine = p[prop(ind)];
+      const mine = val(ind);
       return WCP.kpi(ind, mine, { source: WCP.source(ind) });
     }).join('');
 
-    const cmpItems = ['pct_rent_burden30', 'owner_rate', 'median_household_income', 'median_home_value']
+    const shortLabels = {
+      pct_rent_burden30: 'Cost-burdened renters',
+      owner_rate: 'Owner-occupied',
+      median_household_income: 'Median household income',
+      median_home_value: 'Median home value',
+      median_gross_rent: 'Median gross rent',
+    };
+    const cmpItems = ['pct_rent_burden30', 'owner_rate', 'median_gross_rent', 'median_household_income']
       .map((k) => {
-        const mine = p[prop(k)];
+        const mine = val(k);
         const c = county(k);
         return {
-          label: fieldLabel(k), value: mine, ref: c,
+          label: shortLabels[k] || fieldLabel(k), value: mine, ref: c,
           display: fmtField(k, mine),
           color: 'var(--rust)',
         };
       });
 
-    const rentBurden = p.pct_rent_burden30;
-    const owner = p.owner_rate, renter = p.renter_rate;
+    const rentBurden = val('pct_rent_burden30');
+    const owner = val('owner_rate'), renter = val('renter_rate');
+    const occupied = tableVal('occupied_units');
     const donutParts = [
       { label: 'Owner-occupied', value: owner, display: pct(owner), color: 'var(--green)' },
       { label: 'Renter-occupied', value: renter, display: pct(renter), color: 'var(--rust)' },
@@ -430,13 +469,13 @@
           <div style="display:flex;gap:16px;align-items:center;flex-wrap:wrap">
             <div style="flex:0 0 210px">${WCP.donut(donutParts, {
               centerTop: pct(owner), centerSub: 'owner-occupied',
-              foot: p.occupied_units ? WCP.nf(p.occupied_units, 0) + ' units' : '',
+              foot: occupied ? WCP.nf(occupied, 0) + ' units' : '',
             })}</div>
             <div style="flex:1 1 190px">
               ${WCP.legend(donutParts)}
               <ul class="stat-list">
                 <li><span>Cost-burdened renters</span><span>${pct(rentBurden)}</span></li>
-                <li><span>Units (occupied)</span><span>${p.occupied_units ? WCP.nf(p.occupied_units, 0) : '—'}</span></li>
+                <li><span>Units (occupied)</span><span>${occupied ? WCP.nf(occupied, 0) : '—'}</span></li>
               </ul>
               <p class="chart-note">Rent burden is calculated on renter-occupied units only. Villages without an
               ACS profile are excluded from the county comparison.</p>

@@ -539,7 +539,11 @@ window.WCP = (function () {
       if (!WCP.S.tractKpi) {
         const rows = await WCP.csv(WCP.url('data/tables/kpi_tracts.csv'));
         const idx = {};
-        rows.forEach((r) => { (idx[r.geoid] = idx[r.geoid] || {})[r.indicator] = Number(r.value); });
+        rows.forEach((r) => {
+          const o = (idx[r.geoid] = idx[r.geoid] || {});
+          o[r.indicator] = Number(r.value);
+          if (r.geography_name) o.__name = r.geography_name;
+        });
         WCP.S.tractKpi = idx;
       }
       tracts.features.forEach((f) => {
