@@ -150,7 +150,26 @@ Live run against the GitHub Pages URL: see §8 below.
 
 ## 8. Live verification record
 
-Filled in from the run against the published URL — see the closing section of this file.
+Published: **https://bckaroo.github.io/wcp-dashboard-prototypes/**
+(A: `/alt-a/`, B: `/alt-b/`). Pages build status `built`, HTTPS enforced.
+
+`python site_build/verify_site.py https://bckaroo.github.io/wcp-dashboard-prototypes` →
+**50 checks, 0 failed, 0 console errors, 0 failed requests**, same assertions as the local run,
+against the published URL: both alternatives load, the MapLibre canvas renders, pop-ups and
+layer toggles work, filters change legend and table content, charts draw, CSV links resolve,
+and there is no horizontal overflow at 1280 or 1920 px. Screenshots from this run are in
+`site_build/shots/` and were compared against `design/exports/`.
+
+Every asset is served from the repository (map library, glyphs, fonts, GeoJSON, CSV);
+the pages make no external network calls.
+
+Defects found by that comparison and fixed before this run was recorded: the A3
+selected-geography card showed `pending` for a city that has a profile (name-key mismatch
+between the layer and the KPI tables), the A3 filter row wrapped and clipped its counter,
+the B1/B3 legend was covered by the tile row, the B2 comparison bars scaled all rows on one
+axis so percentage rows drew 0 px, B2 read median gross rent from the layer instead of the
+KPI table, and the B3 tract deep link showed a card with no values. Each now has a named
+regression check in `verify_site.py`.
 
 ## 9. Known gaps and decisions
 
