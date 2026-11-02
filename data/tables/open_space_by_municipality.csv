@@ -1,0 +1,425 @@
+municipality,open_space_category,parcels,acres
+Ardsley,Local Parks,10,35.02
+Ardsley,County Parklands,5,32.70
+Ardsley,Water Supply Lands,5,27.97
+Ardsley,Utility Lines and Aqueducts,2,27.61
+Ardsley,Public Institution,6,16.42
+Ardsley,State Parklands,2,16.17
+Ardsley,Private Institution,5,11.19
+Ardsley,Homeowners Associations and Common Lands,1,5.20
+Ardsley,Public Non-Parklands,2,1.58
+Bedford,Water Supply Lands,34,2196.52
+Bedford,"Farms, Stables and Nurseries",64,1866.92
+Bedford,Nature Preserves,41,1536.32
+Bedford,Private Institution,33,486.99
+Bedford,Public Institution,30,446.06
+Bedford,Private Recreation,3,324.05
+Bedford,Local Parks,21,304.46
+Bedford,State Parklands,8,218.52
+Bedford,County Parklands,2,121.45
+Bedford,Homeowners Associations and Common Lands,5,104.37
+Bedford,Cemeteries,28,38.63
+Bedford,Public Non-Parklands,3,2.74
+Briarcliff Manor,Private Recreation,9,394.74
+Briarcliff Manor,Local Parks,21,170.72
+Briarcliff Manor,Private Institution,27,170.56
+Briarcliff Manor,Homeowners Associations and Common Lands,5,152.54
+Briarcliff Manor,State Parklands,15,111.04
+Briarcliff Manor,Public Non-Parklands,12,103.65
+Briarcliff Manor,Public Institution,13,87.33
+Briarcliff Manor,County Parklands,5,34.97
+Briarcliff Manor,Nature Preserves,2,8.58
+Briarcliff Manor,Water Supply Lands,2,7.56
+Briarcliff Manor,Utility Lines and Aqueducts,3,6.08
+Bronxville,Private Institution,19,34.17
+Bronxville,Public Institution,7,21.12
+Bronxville,County Parklands,10,19.36
+Bronxville,Local Parks,8,8.12
+Bronxville,Cemeteries,1,1.07
+Bronxville,Private Recreation,1,0.46
+Bronxville,Homeowners Associations and Common Lands,2,0.19
+Buchanan,Private Institution,4,237.79
+Buchanan,Utility Lines and Aqueducts,9,79.75
+Buchanan,Local Parks,4,50.99
+Buchanan,Public Institution,6,23.56
+Buchanan,Cemeteries,1,6.79
+Buchanan,Nature Preserves,2,0.85
+Buchanan,Public Non-Parklands,3,0.50
+Cortlandt,County Parklands,53,3019.16
+Cortlandt,State Parklands,19,2166.56
+Cortlandt,Water Supply Lands,31,952.61
+Cortlandt,Public Institution,31,471.85
+Cortlandt,Local Parks,33,470.80
+Cortlandt,Utility Lines and Aqueducts,62,469.60
+Cortlandt,Public Non-Parklands,62,390.39
+Cortlandt,Nature Preserves,26,363.45
+Cortlandt,Homeowners Associations and Common Lands,46,349.83
+Cortlandt,Private Institution,31,269.44
+Cortlandt,Private Recreation,7,205.50
+Cortlandt,Cemeteries,14,141.37
+Cortlandt,"Farms, Stables and Nurseries",3,79.81
+Croton-on-Hudson,County Parklands,4,419.58
+Croton-on-Hudson,Private Recreation,5,269.50
+Croton-on-Hudson,Nature Preserves,6,131.04
+Croton-on-Hudson,Public Non-Parklands,37,88.42
+Croton-on-Hudson,Local Parks,21,66.11
+Croton-on-Hudson,Utility Lines and Aqueducts,12,59.50
+Croton-on-Hudson,Private Institution,16,57.30
+Croton-on-Hudson,Public Institution,10,55.65
+Croton-on-Hudson,Homeowners Associations and Common Lands,12,34.24
+Croton-on-Hudson,Cemeteries,3,5.50
+Dobbs Ferry,Private Institution,34,310.61
+Dobbs Ferry,Local Parks,29,105.64
+Dobbs Ferry,State Parklands,14,77.44
+Dobbs Ferry,Private Recreation,13,76.02
+Dobbs Ferry,Homeowners Associations and Common Lands,20,73.63
+Dobbs Ferry,Public Institution,12,37.77
+Dobbs Ferry,County Parklands,2,13.64
+Dobbs Ferry,Cemeteries,1,1.03
+Eastchester,Private Recreation,5,209.99
+Eastchester,County Parklands,9,196.74
+Eastchester,Local Parks,34,157.76
+Eastchester,Public Institution,16,57.92
+Eastchester,State Parklands,10,57.80
+Eastchester,Homeowners Associations and Common Lands,6,30.73
+Eastchester,Private Institution,16,18.34
+Eastchester,Cemeteries,1,5.45
+Eastchester,Water Supply Lands,4,2.70
+Eastchester,Public Non-Parklands,2,0.69
+Elmsford,State Parklands,4,100.85
+Elmsford,Private Recreation,11,51.04
+Elmsford,Public Institution,16,22.92
+Elmsford,Homeowners Associations and Common Lands,3,22.04
+Elmsford,Utility Lines and Aqueducts,3,18.07
+Elmsford,Local Parks,8,5.98
+Elmsford,Private Institution,1,1.48
+Elmsford,County Parklands,1,1.39
+Elmsford,Cemeteries,2,0.74
+Elmsford,Public Non-Parklands,1,0.40
+Greenburgh,Private Recreation,67,853.03
+Greenburgh,County Parklands,41,797.32
+Greenburgh,Public Institution,57,791.45
+Greenburgh,Private Institution,62,738.64
+Greenburgh,State Parklands,18,606.34
+Greenburgh,Homeowners Associations and Common Lands,26,519.62
+Greenburgh,Utility Lines and Aqueducts,15,304.73
+Greenburgh,Local Parks,38,282.39
+Greenburgh,Cemeteries,19,269.21
+Greenburgh,Water Supply Lands,2,73.10
+Greenburgh,Public Non-Parklands,23,18.29
+Greenburgh,"Farms, Stables and Nurseries",2,18.16
+Harrison,Private Recreation,18,1237.40
+Harrison,Public Institution,18,972.52
+Harrison,Water Supply Lands,19,516.35
+Harrison,Private Institution,23,313.91
+Harrison,State Parklands,6,254.71
+Harrison,County Parklands,15,188.43
+Harrison,Homeowners Associations and Common Lands,15,159.74
+Harrison,Public Non-Parklands,32,120.73
+Harrison,Local Parks,41,100.67
+Harrison,Cemeteries,9,27.66
+Harrison,Nature Preserves,6,6.31
+Hastings-on-Hudson,Private Institution,31,161.69
+Hastings-on-Hudson,Local Parks,33,102.44
+Hastings-on-Hudson,State Parklands,14,93.05
+Hastings-on-Hudson,County Parklands,7,59.03
+Hastings-on-Hudson,Public Institution,11,49.39
+Hastings-on-Hudson,Homeowners Associations and Common Lands,3,16.17
+Hastings-on-Hudson,Public Non-Parklands,4,8.65
+Hastings-on-Hudson,Private Recreation,2,4.99
+Irvington,Local Parks,31,308.02
+Irvington,Private Institution,22,150.31
+Irvington,State Parklands,13,106.54
+Irvington,Homeowners Associations and Common Lands,18,95.36
+Irvington,Private Recreation,3,53.69
+Irvington,Public Institution,3,49.17
+Irvington,Public Non-Parklands,1,11.33
+Irvington,County Parklands,2,7.86
+Irvington,Nature Preserves,2,0.12
+Larchmont,Local Parks,16,41.04
+Larchmont,Private Recreation,5,30.85
+Larchmont,Private Institution,8,7.27
+Larchmont,Homeowners Associations and Common Lands,2,6.06
+Larchmont,Public Institution,5,4.37
+Larchmont,Cemeteries,2,0.60
+Lewisboro,Water Supply Lands,55,1814.99
+Lewisboro,County Parklands,17,1285.73
+Lewisboro,Nature Preserves,39,741.58
+Lewisboro,Local Parks,25,735.78
+Lewisboro,"Farms, Stables and Nurseries",13,423.06
+Lewisboro,Homeowners Associations and Common Lands,44,386.54
+Lewisboro,Private Recreation,30,268.30
+Lewisboro,Public Institution,13,178.25
+Lewisboro,Private Institution,10,165.56
+Lewisboro,Public Non-Parklands,7,14.51
+Lewisboro,Cemeteries,17,14.00
+Lewisboro,Utility Lines and Aqueducts,1,13.87
+Mamaroneck Town,Private Recreation,11,443.84
+Mamaroneck Town,County Parklands,3,198.91
+Mamaroneck Town,Local Parks,39,92.64
+Mamaroneck Town,Public Institution,11,32.90
+Mamaroneck Town,Water Supply Lands,2,13.24
+Mamaroneck Town,Nature Preserves,2,13.15
+Mamaroneck Town,Private Institution,3,5.24
+Mamaroneck Town,Cemeteries,1,0.24
+Mamaroneck Village,Private Recreation,14,142.44
+Mamaroneck Village,Local Parks,27,79.41
+Mamaroneck Village,Nature Preserves,16,58.82
+Mamaroneck Village,State Parklands,3,57.77
+Mamaroneck Village,Public Institution,19,48.29
+Mamaroneck Village,Private Institution,19,47.65
+Mamaroneck Village,Public Non-Parklands,12,10.35
+Mamaroneck Village,Homeowners Associations and Common Lands,4,9.60
+Mamaroneck Village,Utility Lines and Aqueducts,1,4.41
+Mamaroneck Village,Cemeteries,9,2.29
+Mamaroneck Village,Water Supply Lands,1,1.97
+Mount Kisco,Local Parks,10,173.04
+Mount Kisco,Private Recreation,3,155.05
+Mount Kisco,Homeowners Associations and Common Lands,15,149.93
+Mount Kisco,Water Supply Lands,13,103.10
+Mount Kisco,Cemeteries,5,73.60
+Mount Kisco,State Parklands,5,51.43
+Mount Kisco,Private Institution,16,50.58
+Mount Kisco,Public Institution,10,23.13
+Mount Kisco,Nature Preserves,5,9.46
+Mount Kisco,Public Non-Parklands,5,8.62
+Mount Kisco,Utility Lines and Aqueducts,1,0.43
+Mount Pleasant,State Parklands,86,1695.21
+Mount Pleasant,Water Supply Lands,19,1173.80
+Mount Pleasant,Cemeteries,19,820.33
+Mount Pleasant,Private Institution,61,797.38
+Mount Pleasant,County Parklands,23,790.12
+Mount Pleasant,Public Institution,29,564.55
+Mount Pleasant,Private Recreation,9,456.66
+Mount Pleasant,"Farms, Stables and Nurseries",19,417.25
+Mount Pleasant,Local Parks,26,281.69
+Mount Pleasant,Utility Lines and Aqueducts,28,257.37
+Mount Pleasant,Homeowners Associations and Common Lands,9,55.63
+Mount Pleasant,Nature Preserves,2,6.17
+Mount Pleasant,Public Non-Parklands,1,2.40
+Mount Vernon,Local Parks,35,97.16
+Mount Vernon,State Parklands,60,95.71
+Mount Vernon,Public Institution,39,86.03
+Mount Vernon,County Parklands,12,63.84
+Mount Vernon,Private Institution,63,26.08
+Mount Vernon,Public Non-Parklands,52,13.59
+Mount Vernon,Private Recreation,2,8.55
+Mount Vernon,Cemeteries,3,5.99
+New Castle,Local Parks,29,761.52
+New Castle,Private Institution,25,499.10
+New Castle,State Parklands,46,498.68
+New Castle,Public Non-Parklands,185,484.78
+New Castle,Private Recreation,13,403.47
+New Castle,Homeowners Associations and Common Lands,30,390.02
+New Castle,Water Supply Lands,18,345.76
+New Castle,County Parklands,14,335.33
+New Castle,Utility Lines and Aqueducts,35,302.10
+New Castle,Public Institution,34,251.23
+New Castle,Nature Preserves,27,250.46
+New Castle,"Farms, Stables and Nurseries",8,59.82
+New Castle,Cemeteries,8,23.52
+New Rochelle,Private Recreation,45,345.76
+New Rochelle,Local Parks,45,290.57
+New Rochelle,Private Institution,94,235.92
+New Rochelle,County Parklands,11,175.65
+New Rochelle,Public Institution,19,121.04
+New Rochelle,Public Non-Parklands,12,91.38
+New Rochelle,State Parklands,8,85.59
+New Rochelle,Cemeteries,11,55.49
+New Rochelle,Water Supply Lands,3,49.90
+New Rochelle,Homeowners Associations and Common Lands,6,18.73
+New Rochelle,Utility Lines and Aqueducts,1,14.02
+New Rochelle,Nature Preserves,3,6.26
+North Castle,Water Supply Lands,50,3175.48
+North Castle,Nature Preserves,24,1281.30
+North Castle,Local Parks,50,454.63
+North Castle,County Parklands,26,351.05
+North Castle,Private Recreation,10,319.89
+North Castle,Public Institution,20,162.26
+North Castle,"Farms, Stables and Nurseries",2,75.69
+North Castle,Private Institution,15,70.35
+North Castle,Homeowners Associations and Common Lands,19,29.32
+North Castle,Cemeteries,6,17.26
+North Castle,Public Non-Parklands,10,15.55
+North Salem,"Farms, Stables and Nurseries",50,1974.31
+North Salem,Water Supply Lands,54,1272.82
+North Salem,Nature Preserves,38,1040.27
+North Salem,County Parklands,32,922.53
+North Salem,Homeowners Associations and Common Lands,38,287.24
+North Salem,Private Institution,15,275.80
+North Salem,Private Recreation,7,203.27
+North Salem,Public Institution,13,144.68
+North Salem,Local Parks,6,36.42
+North Salem,Public Non-Parklands,9,25.47
+North Salem,Cemeteries,3,6.91
+North Salem,Utility Lines and Aqueducts,1,0.51
+Ossining Town,Private Institution,19,207.94
+Ossining Town,Local Parks,8,98.17
+Ossining Town,State Parklands,8,75.43
+Ossining Town,Homeowners Associations and Common Lands,3,68.63
+Ossining Town,Cemeteries,4,59.70
+Ossining Town,Public Institution,3,58.68
+Ossining Town,Water Supply Lands,5,42.07
+Ossining Town,County Parklands,2,21.66
+Ossining Town,Public Non-Parklands,1,0.10
+Ossining Village,Public Institution,39,139.21
+Ossining Village,Homeowners Associations and Common Lands,7,65.97
+Ossining Village,Private Institution,12,64.51
+Ossining Village,Local Parks,23,62.04
+Ossining Village,County Parklands,3,40.80
+Ossining Village,Cemeteries,5,23.43
+Ossining Village,State Parklands,16,22.83
+Ossining Village,Public Non-Parklands,6,18.92
+Ossining Village,Private Recreation,1,5.62
+Peekskill,Local Parks,25,329.71
+Peekskill,County Parklands,1,123.72
+Peekskill,State Parklands,1,105.99
+Peekskill,Public Institution,23,97.99
+Peekskill,Utility Lines and Aqueducts,1,55.33
+Peekskill,Water Supply Lands,1,42.39
+Peekskill,Homeowners Associations and Common Lands,6,41.02
+Peekskill,Private Institution,15,24.22
+Peekskill,Public Non-Parklands,5,20.83
+Peekskill,Private Recreation,2,12.82
+Peekskill,Cemeteries,1,0.75
+Peekskill,Nature Preserves,1,0.70
+Pelham,State Parklands,10,38.07
+Pelham,Public Institution,7,16.16
+Pelham,Local Parks,11,11.71
+Pelham,Private Institution,2,1.18
+Pelham,Homeowners Associations and Common Lands,1,0.24
+Pelham Manor,Private Recreation,5,66.22
+Pelham Manor,State Parklands,6,36.73
+Pelham Manor,Local Parks,7,28.09
+Pelham Manor,Private Institution,9,16.45
+Pelham Manor,Public Institution,5,11.39
+Pelham Manor,Public Non-Parklands,6,1.99
+Pelham Manor,Homeowners Associations and Common Lands,1,1.64
+Pelham Manor,County Parklands,1,1.12
+Pleasantville,Utility Lines and Aqueducts,9,69.06
+Pleasantville,State Parklands,7,67.41
+Pleasantville,Local Parks,4,35.28
+Pleasantville,Private Institution,12,34.90
+Pleasantville,Homeowners Associations and Common Lands,3,34.61
+Pleasantville,Public Institution,8,26.22
+Pleasantville,Cemeteries,4,7.99
+Pleasantville,Private Recreation,2,3.36
+Pleasantville,Public Non-Parklands,1,2.37
+Port Chester,Local Parks,13,51.55
+Port Chester,Public Institution,7,49.32
+Port Chester,Private Institution,18,37.47
+Port Chester,Homeowners Associations and Common Lands,4,13.82
+Port Chester,Water Supply Lands,1,0.83
+Port Chester,Public Non-Parklands,1,0.54
+Port Chester,Cemeteries,1,0.05
+Pound Ridge,County Parklands,8,2830.91
+Pound Ridge,Water Supply Lands,61,1467.57
+Pound Ridge,Nature Preserves,38,609.39
+Pound Ridge,Private Recreation,5,324.36
+Pound Ridge,Local Parks,14,208.02
+Pound Ridge,Public Non-Parklands,31,106.06
+Pound Ridge,Homeowners Associations and Common Lands,9,80.00
+Pound Ridge,"Farms, Stables and Nurseries",2,51.60
+Pound Ridge,Private Institution,8,41.82
+Pound Ridge,Public Institution,9,27.48
+Pound Ridge,Utility Lines and Aqueducts,3,7.98
+Pound Ridge,Cemeteries,11,4.48
+Rye Brook,Public Institution,11,273.05
+Rye Brook,Private Recreation,4,240.90
+Rye Brook,Homeowners Associations and Common Lands,26,134.66
+Rye Brook,Local Parks,13,75.63
+Rye Brook,State Parklands,3,75.26
+Rye Brook,Public Non-Parklands,10,49.01
+Rye Brook,Private Institution,4,21.79
+Rye Brook,Cemeteries,3,18.52
+Rye Brook,Water Supply Lands,1,0.55
+Rye City,County Parklands,3,456.05
+Rye City,Local Parks,8,276.77
+Rye City,Private Recreation,19,197.17
+Rye City,Public Institution,12,129.77
+Rye City,Homeowners Associations and Common Lands,8,118.83
+Rye City,Cemeteries,8,52.90
+Rye City,Private Institution,16,41.80
+Rye City,Nature Preserves,11,26.89
+Rye City,Public Non-Parklands,13,15.82
+Scarsdale,County Parklands,9,573.60
+Scarsdale,Private Recreation,6,256.38
+Scarsdale,Local Parks,48,140.42
+Scarsdale,Public Institution,17,136.07
+Scarsdale,Private Institution,47,56.52
+Scarsdale,Public Non-Parklands,39,40.17
+Scarsdale,State Parklands,1,27.97
+Scarsdale,Nature Preserves,2,6.40
+Scarsdale,Homeowners Associations and Common Lands,2,3.10
+Scarsdale,Cemeteries,1,0.44
+Scarsdale,Utility Lines and Aqueducts,1,0.23
+Sleepy Hollow,"Farms, Stables and Nurseries",7,237.55
+Sleepy Hollow,Private Institution,18,153.47
+Sleepy Hollow,State Parklands,10,144.31
+Sleepy Hollow,Cemeteries,5,105.18
+Sleepy Hollow,Local Parks,19,82.71
+Sleepy Hollow,Public Institution,19,27.95
+Sleepy Hollow,Private Recreation,7,27.69
+Sleepy Hollow,County Parklands,5,20.10
+Sleepy Hollow,Public Non-Parklands,1,0.04
+Somers,Water Supply Lands,70,3438.26
+Somers,Private Institution,18,1472.59
+Somers,County Parklands,36,1366.52
+Somers,"Farms, Stables and Nurseries",26,1015.87
+Somers,Private Recreation,26,588.50
+Somers,Homeowners Associations and Common Lands,74,587.24
+Somers,Public Institution,22,344.43
+Somers,Local Parks,14,288.81
+Somers,State Parklands,4,47.93
+Somers,Public Non-Parklands,12,28.14
+Somers,Cemeteries,8,15.96
+Somers,Nature Preserves,3,7.03
+Tarrytown,Water Supply Lands,16,148.75
+Tarrytown,Private Institution,39,138.34
+Tarrytown,Private Recreation,8,102.82
+Tarrytown,Local Parks,24,94.20
+Tarrytown,County Parklands,1,40.06
+Tarrytown,Public Institution,4,19.85
+Tarrytown,State Parklands,15,18.53
+Tarrytown,Public Non-Parklands,4,10.93
+Tarrytown,Homeowners Associations and Common Lands,1,5.14
+Tuckahoe,County Parklands,11,28.01
+Tuckahoe,Local Parks,13,17.76
+Tuckahoe,Private Institution,9,2.18
+Tuckahoe,Public Institution,10,1.90
+Tuckahoe,Public Non-Parklands,2,1.08
+White Plains,Private Institution,98,512.30
+White Plains,Water Supply Lands,12,447.58
+White Plains,County Parklands,9,365.51
+White Plains,Public Institution,37,231.30
+White Plains,Local Parks,77,146.92
+White Plains,Private Recreation,5,142.13
+White Plains,Homeowners Associations and Common Lands,18,96.69
+White Plains,State Parklands,3,82.36
+White Plains,Public Non-Parklands,46,44.78
+White Plains,Cemeteries,3,27.61
+White Plains,Utility Lines and Aqueducts,2,0.69
+Yonkers,County Parklands,52,992.96
+Yonkers,State Parklands,62,549.51
+Yonkers,Local Parks,143,355.94
+Yonkers,Private Institution,130,340.75
+Yonkers,Water Supply Lands,7,310.10
+Yonkers,Public Institution,57,215.35
+Yonkers,Utility Lines and Aqueducts,15,175.34
+Yonkers,Cemeteries,8,102.77
+Yonkers,Private Recreation,8,27.60
+Yonkers,Homeowners Associations and Common Lands,15,24.79
+Yonkers,Public Non-Parklands,14,12.59
+Yorktown,Water Supply Lands,140,2665.25
+Yorktown,State Parklands,33,2280.84
+Yorktown,Local Parks,198,1856.09
+Yorktown,County Parklands,32,1461.16
+Yorktown,Private Institution,49,508.98
+Yorktown,Nature Preserves,39,477.40
+Yorktown,Utility Lines and Aqueducts,76,441.53
+Yorktown,Public Institution,45,409.09
+Yorktown,Homeowners Associations and Common Lands,72,385.60
+Yorktown,"Farms, Stables and Nurseries",12,363.41
+Yorktown,Private Recreation,40,135.88
+Yorktown,Public Non-Parklands,46,106.31
+Yorktown,Cemeteries,5,13.28

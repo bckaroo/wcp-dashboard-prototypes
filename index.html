@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Westchester Communities &amp; Places Dashboard — two working alternatives</title>
+<meta name="description" content="Two working static alternatives of the Westchester Communities &amp; Places Dashboard, built to the capabilities of ArcGIS Experience Builder.">
+<link rel="icon" href="assets/img/logo-on-green.png">
+<link rel="stylesheet" href="assets/css/fonts.css">
+<link rel="stylesheet" href="assets/css/wcp.css">
+</head>
+<body data-base="./">
+<header class="site-header">
+  <div class="wrap" style="max-width:1180px">
+    <div class="brand">
+      <a href="./"><img src="assets/img/logo-white_web.png" alt="Westchester County"></a>
+      <span class="product">Westchester Communities &amp; Places Dashboard</span>
+    </div>
+    <div class="header-actions">
+      <span class="agency">Westchester County Department of Planning</span>
+      <a href="https://github.com/bckaroo/wcp-dashboard-prototypes/blob/main/README.md">Build README</a>
+      <a href="https://github.com/bckaroo/wcp-dashboard-prototypes/blob/main/data/README.md">Data sources</a>
+    </div>
+  </div>
+</header>
+
+<div class="landing">
+  <p class="eyebrow">Prototype build · November 2026</p>
+  <h1>Two working alternatives</h1>
+  <p class="lede">Both alternatives are static sites built only from capabilities ArcGIS Experience Builder
+  provides: Header, Tab/Navigation, Indicator, Chart (bar and pie), Map (web map, pop-ups, layer list),
+  Filter/Category Selector, List/Feature Info and Rich text. No 3D, no animation, no client-side editing.
+  Both are branded to Westchester County Planning and carry real County, Census and HUD data.</p>
+
+  <div class="alt-grid">
+    <a class="alt-card" href="alt-a/">
+      <img src="assets/img/preview-alt-a.png" alt="Alternative A landing screen">
+      <div class="body">
+        <h2>Alternative A — theme storytelling</h2>
+        <p>The reader picks a question ("How much housing, and for whom?") and the page answers it: headline
+        indicators, one comparative chart, a supporting breakdown, then the municipality table. The map is a
+        destination inside a theme.</p>
+        <div class="go">Open Alternative A →</div>
+      </div>
+    </a>
+    <a class="alt-card" href="alt-b/">
+      <img src="assets/img/preview-alt-b.png" alt="Alternative B map explorer screen">
+      <div class="body">
+        <h2>Alternative B — map explorer</h2>
+        <p>The reader lands on a map with filters, picks a place, and every panel follows: tiles, pop-up,
+        municipality profile, census-tract detail. The five themes are a filter dimension; geography is the
+        navigation.</p>
+        <div class="go">Open Alternative B →</div>
+      </div>
+    </a>
+  </div>
+
+  <div class="panel">
+    <div class="panel-pad">
+      <h2 style="font-size:19px;margin:0 0 8px">Data sources and licensing</h2>
+      <div class="tbl-wrap">
+        <table class="tbl">
+          <thead><tr><th>Source</th><th>What it supplies</th><th>Vintage</th><th>Terms</th></tr></thead>
+          <tbody>
+            <tr><td>U.S. Census Bureau — ACS 5-year</td><td>Population, housing, income, commuting (33 indicators × county / town-city / tract)</td><td>2020–2024</td><td>Public domain</td></tr>
+            <tr><td>U.S. Census Bureau — TIGER/Line</td><td>County, county-subdivision, tract and block-group boundaries</td><td>2024</td><td>Public domain</td></tr>
+            <tr><td>Westchester County GIS</td><td>Municipal boundaries, zoning, open space, parks, trails, roads, transit, schools, water districts</td><td>2024 release</td><td>Public REST services, no explicit licence published — confirm terms with WCGIS before the public launch</td></tr>
+            <tr><td>HUD — LMISD</td><td>Low- and moderate-income persons by block group</td><td>2016–2020</td><td>U.S. Government work, public domain</td></tr>
+            <tr><td>NYS Dept. of State — Disadvantaged Communities</td><td>Climate Act DAC designations</td><td>2023 designations</td><td>Free public use with citation</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="provenance-note">Every layer, feature count, source CRS and field dictionary is documented in
+      <a href="https://github.com/bckaroo/wcp-dashboard-prototypes/blob/main/data/README.md">data/README.md</a>. Where a figure is not available — village-level ACS profiles,
+      NYSED school enrolment, CDBG project polygons — the screens say <em>pending county AGOL</em> rather than
+      showing an invented value.</p>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="panel-pad">
+      <h2 style="font-size:19px;margin:0 0 8px">About this build</h2>
+      <p style="font-size:12px;color:var(--g700);margin:0 0 10px">These pages are the working preview of the two
+      design alternatives drawn in FigCraft. They are a communication device for the County review, not the
+      production dashboard: production runs on County AGOL with the same widgets, the same data and the same
+      screen set. The widget-by-widget mapping, the design deviations and the verification record are in
+      <a href="https://github.com/bckaroo/wcp-dashboard-prototypes/blob/main/README.md">the build README</a>.</p>
+      <p style="font-size:12px;color:var(--g700);margin:0">Product name, palette and typography follow
+      <code>design/brand.md</code>: Archivo SemiBold for headings and numerals, Public Sans for body and UI,
+      header <code>#02372D</code>, accent <code>#A9553C</code>. Fonts are self-hosted (SIL Open Font License).</p>
+    </div>
+  </div>
+
+  <footer class="site-footer" style="margin-top:30px;border-radius:0">
+    <div class="wrap" style="max-width:none;padding:0">
+      <span class="src">Source: U.S. Census Bureau ACS 2020–2024 5-year estimates · Westchester County GIS 2024 · HUD LMISD</span>
+      <span class="links"><a href="alt-a/#about">Accessibility</a><a href="https://github.com/bckaroo/wcp-dashboard-prototypes/blob/main/data/README.md">Data notes</a><a href="https://github.com/bckaroo/wcp-dashboard-prototypes/blob/main/README.md">Build notes</a></span>
+    </div>
+  </footer>
+</div>
+</body>
+</html>

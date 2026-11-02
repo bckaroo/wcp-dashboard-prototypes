@@ -1,0 +1,1139 @@
+municipality_source,land_use_category,acres,municipality,mun_match
+Bedford Town,Single Family Residential,10226.73,Bedford,suffix-stripped
+Bedford Town,Estate and Rural Residential,3288.93,Bedford,suffix-stripped
+Bedford Town,Vacant Land,2706.40,Bedford,suffix-stripped
+Bedford Town,Water Supply Lands,2230.81,Bedford,suffix-stripped
+Bedford Town,Nature Preserves and Other Unspecified Protected Lands,1626.23,Bedford,suffix-stripped
+Bedford Town,Transportation Right-of-Way,1530.19,Bedford,suffix-stripped
+Bedford Town,"Horse, Livestock Farm",682.14,Bedford,suffix-stripped
+Bedford Town,Schools,566.56,Bedford,suffix-stripped
+Bedford Town,Private Golf Courses,313.13,Bedford,suffix-stripped
+Bedford Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,308.35,Bedford,suffix-stripped
+Bedford Town,"City/Town/Village Public Parks, Conservation, Forest Lands",248.78,Bedford,suffix-stripped
+Bedford Town,State Parkway Lands,163.91,Bedford,suffix-stripped
+Bedford Town,Public Safety Facilities,161.35,Bedford,suffix-stripped
+Bedford Town,Nurseries and Greenhouses - Agriculture,123.41,Bedford,suffix-stripped
+Bedford Town,"County Owned Public Parks, Conservation, Forest Lands",121.45,Bedford,suffix-stripped
+Bedford Town,Agriculture Other,110.29,Bedford,suffix-stripped
+Bedford Town,Common Land Homeowners Assoc.,104.37,Bedford,suffix-stripped
+Bedford Town,Commercial and Retail,100.55,Bedford,suffix-stripped
+Bedford Town,Religious,93.59,Bedford,suffix-stripped
+Bedford Town,Two Family Residential,92.83,Bedford,suffix-stripped
+Bedford Town,Cultural Facilities,92.49,Bedford,suffix-stripped
+Bedford Town,Vacant Land with Improvements,90.67,Bedford,suffix-stripped
+Bedford Town,"State Owned Public Parks, Conservation, Forest Lands",62.89,Bedford,suffix-stripped
+Bedford Town,Multi-Family Residential,51.48,Bedford,suffix-stripped
+Bedford Town,Transportation Facilities,47.11,Bedford,suffix-stripped
+Bedford Town,"Storage, Warehouse and Distribution Facilities",45.81,Bedford,suffix-stripped
+Bedford Town,"Government Buildings, Facilities",31.71,Bedford,suffix-stripped
+Bedford Town,Cemeteries,27.48,Bedford,suffix-stripped
+Bedford Town,"Motor Vehicles, Sales and Service",26.02,Bedford,suffix-stripped
+Bedford Town,Mixed Use,21.14,Bedford,suffix-stripped
+Bedford Town,Restaurants,19.35,Bedford,suffix-stripped
+Bedford Town,Condominium,16.95,Bedford,suffix-stripped
+Bedford Town,Three Family Residential,15.58,Bedford,suffix-stripped
+Bedford Town,Office Building,14.37,Bedford,suffix-stripped
+Bedford Town,Indoor Sports Facilities,13.56,Bedford,suffix-stripped
+Bedford Town,"Manufacturing, Industrial, Mining and Quarrying",13.46,Bedford,suffix-stripped
+Bedford Town,Retail Nurseries and Greenhouses,12.00,Bedford,suffix-stripped
+Bedford Town,Private Recreation-Other,11.16,Bedford,suffix-stripped
+Bedford Town,Mixed Use-Downtown Row Type,7.69,Bedford,suffix-stripped
+Bedford Town,Utilities,3.90,Bedford,suffix-stripped
+Bedford Town,Parking Garages and Lots,1.81,Bedford,suffix-stripped
+Bedford Town,Social and Health Services,1.27,Bedford,suffix-stripped
+Bedford Town,Libraries,0.91,Bedford,suffix-stripped
+Bedford Town,Communication,0.48,Bedford,suffix-stripped
+Cortlandt Town,Single Family Residential,8220.95,Cortlandt,suffix-stripped
+Cortlandt Town,"County Owned Public Parks, Conservation, Forest Lands",2925.06,Cortlandt,suffix-stripped
+Cortlandt Town,Vacant Land,2856.97,Cortlandt,suffix-stripped
+Cortlandt Town,Transportation Right-of-Way,1758.05,Cortlandt,suffix-stripped
+Cortlandt Town,Military Installations,1592.78,Cortlandt,suffix-stripped
+Cortlandt Town,Nature Preserves and Other Unspecified Protected Lands,1155.64,Cortlandt,suffix-stripped
+Cortlandt Town,Utilities,983.82,Cortlandt,suffix-stripped
+Cortlandt Town,Water Supply Lands,975.89,Cortlandt,suffix-stripped
+Cortlandt Town,"City/Town/Village Public Parks, Conservation, Forest Lands",537.11,Cortlandt,suffix-stripped
+Cortlandt Town,"State Owned Public Parks, Conservation, Forest Lands",459.72,Cortlandt,suffix-stripped
+Cortlandt Town,Private Golf Courses,430.31,Cortlandt,suffix-stripped
+Cortlandt Town,Interior Water Bodies,398.24,Cortlandt,suffix-stripped
+Cortlandt Town,Transportation Facilities,344.23,Cortlandt,suffix-stripped
+Cortlandt Town,Common Land Homeowners Assoc.,334.04,Cortlandt,suffix-stripped
+Cortlandt Town,Schools,310.22,Cortlandt,suffix-stripped
+Cortlandt Town,Estate and Rural Residential,271.41,Cortlandt,suffix-stripped
+Cortlandt Town,Two Family Residential,266.65,Cortlandt,suffix-stripped
+Cortlandt Town,Multi-Family Residential,244.05,Cortlandt,suffix-stripped
+Cortlandt Town,"Storage, Warehouse and Distribution Facilities",241.74,Cortlandt,suffix-stripped
+Cortlandt Town,"Government Buildings, Facilities",239.93,Cortlandt,suffix-stripped
+Cortlandt Town,Condominium,206.00,Cortlandt,suffix-stripped
+Cortlandt Town,"Waste Disposal, Treatment Plants, Landfills",190.50,Cortlandt,suffix-stripped
+Cortlandt Town,Religious,180.58,Cortlandt,suffix-stripped
+Cortlandt Town,Cemeteries,148.98,Cortlandt,suffix-stripped
+Cortlandt Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,142.60,Cortlandt,suffix-stripped
+Cortlandt Town,Regional Shopping Centers,140.36,Cortlandt,suffix-stripped
+Cortlandt Town,Vacant Land with Improvements,105.73,Cortlandt,suffix-stripped
+Cortlandt Town,Commercial and Retail,97.24,Cortlandt,suffix-stripped
+Cortlandt Town,"Horse, Livestock Farm",86.88,Cortlandt,suffix-stripped
+Cortlandt Town,Mixed Use,78.52,Cortlandt,suffix-stripped
+Cortlandt Town,State Parkway Lands,73.15,Cortlandt,suffix-stripped
+Cortlandt Town,Restaurants,67.42,Cortlandt,suffix-stripped
+Cortlandt Town,"Private Campgrounds, Cottages, Bungalows",67.25,Cortlandt,suffix-stripped
+Cortlandt Town,Cultural Facilities,54.80,Cortlandt,suffix-stripped
+Cortlandt Town,"Motor Vehicles, Sales and Service",48.85,Cortlandt,suffix-stripped
+Cortlandt Town,Social and Health Services,42.05,Cortlandt,suffix-stripped
+Cortlandt Town,Three Family Residential,39.53,Cortlandt,suffix-stripped
+Cortlandt Town,"Manufacturing, Industrial, Mining and Quarrying",34.72,Cortlandt,suffix-stripped
+Cortlandt Town,Office Building,32.06,Cortlandt,suffix-stripped
+Cortlandt Town,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",23.39,Cortlandt,suffix-stripped
+Cortlandt Town,Public Safety Facilities,22.39,Cortlandt,suffix-stripped
+Cortlandt Town,Private Recreation-Other,19.79,Cortlandt,suffix-stripped
+Cortlandt Town,Private  Marinas,19.17,Cortlandt,suffix-stripped
+Cortlandt Town,Mobile Homes and Mobile Home Parks,17.78,Cortlandt,suffix-stripped
+Cortlandt Town,Hospitals,12.61,Cortlandt,suffix-stripped
+Cortlandt Town,Indoor Sports Facilities,9.75,Cortlandt,suffix-stripped
+Cortlandt Town,Mixed Use-Downtown Row Type,7.12,Cortlandt,suffix-stripped
+Cortlandt Town,Parking Garages and Lots,5.66,Cortlandt,suffix-stripped
+Cortlandt Town,Agriculture Other,4.84,Cortlandt,suffix-stripped
+Cortlandt Town,Libraries,4.10,Cortlandt,suffix-stripped
+Cortlandt Town,Communication,3.90,Cortlandt,suffix-stripped
+Cortlandt Town,Retail Nurseries and Greenhouses,1.52,Cortlandt,suffix-stripped
+Cortlandt Town,Private Beaches,1.44,Cortlandt,suffix-stripped
+Eastchester Town,Single Family Residential,1286.83,Eastchester,suffix-stripped
+Eastchester Town,Transportation Right-of-Way,584.09,Eastchester,suffix-stripped
+Eastchester Town,"County Owned Public Parks, Conservation, Forest Lands",244.15,Eastchester,suffix-stripped
+Eastchester Town,Private Golf Courses,209.99,Eastchester,suffix-stripped
+Eastchester Town,Multi-Family Residential,126.38,Eastchester,suffix-stripped
+Eastchester Town,Public Golf Courses,116.36,Eastchester,suffix-stripped
+Eastchester Town,Schools,68.79,Eastchester,suffix-stripped
+Eastchester Town,Two Family Residential,64.00,Eastchester,suffix-stripped
+Eastchester Town,State Parkway Lands,58.00,Eastchester,suffix-stripped
+Eastchester Town,"City/Town/Village Public Parks, Conservation, Forest Lands",57.90,Eastchester,suffix-stripped
+Eastchester Town,Vacant Land,56.30,Eastchester,suffix-stripped
+Eastchester Town,Commercial and Retail,32.42,Eastchester,suffix-stripped
+Eastchester Town,Common Land Homeowners Assoc.,31.15,Eastchester,suffix-stripped
+Eastchester Town,Transportation Facilities,29.86,Eastchester,suffix-stripped
+Eastchester Town,Religious,26.63,Eastchester,suffix-stripped
+Eastchester Town,Regional Shopping Centers,25.63,Eastchester,suffix-stripped
+Eastchester Town,Colleges and Universities,22.57,Eastchester,suffix-stripped
+Eastchester Town,Mixed Use-Downtown Row Type,16.54,Eastchester,suffix-stripped
+Eastchester Town,Condominium,16.19,Eastchester,suffix-stripped
+Eastchester Town,"Storage, Warehouse and Distribution Facilities",14.81,Eastchester,suffix-stripped
+Eastchester Town,Mixed Use,14.27,Eastchester,suffix-stripped
+Eastchester Town,"Government Buildings, Facilities",12.88,Eastchester,suffix-stripped
+Eastchester Town,"Motor Vehicles, Sales and Service",12.81,Eastchester,suffix-stripped
+Eastchester Town,Three Family Residential,9.22,Eastchester,suffix-stripped
+Eastchester Town,Office Building,7.43,Eastchester,suffix-stripped
+Eastchester Town,Cemeteries,6.52,Eastchester,suffix-stripped
+Eastchester Town,"Waste Disposal, Treatment Plants, Landfills",5.30,Eastchester,suffix-stripped
+Eastchester Town,Parking Garages and Lots,4.58,Eastchester,suffix-stripped
+Eastchester Town,Hospitals,3.57,Eastchester,suffix-stripped
+Eastchester Town,Private Recreation-Other,3.54,Eastchester,suffix-stripped
+Eastchester Town,Libraries,2.85,Eastchester,suffix-stripped
+Eastchester Town,Vacant Land with Improvements,2.63,Eastchester,suffix-stripped
+Eastchester Town,Restaurants,2.41,Eastchester,suffix-stripped
+Eastchester Town,Social and Health Services,2.25,Eastchester,suffix-stripped
+Eastchester Town,"Manufacturing, Industrial, Mining and Quarrying",2.22,Eastchester,suffix-stripped
+Eastchester Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,1.42,Eastchester,suffix-stripped
+Eastchester Town,Utilities,1.26,Eastchester,suffix-stripped
+Eastchester Town,Cultural Facilities,1.13,Eastchester,suffix-stripped
+Eastchester Town,Public Safety Facilities,0.99,Eastchester,suffix-stripped
+Eastchester Town,Indoor Sports Facilities,0.91,Eastchester,suffix-stripped
+Eastchester Town,Water Supply Lands,0.60,Eastchester,suffix-stripped
+Eastchester Town,Retail Nurseries and Greenhouses,0.45,Eastchester,suffix-stripped
+Eastchester Town,Communication,0.43,Eastchester,suffix-stripped
+Eastchester Town,Recreation and Entertainment-Other,0.34,Eastchester,suffix-stripped
+Greenburgh Town,Single Family Residential,5699.61,Greenburgh,suffix-stripped
+Greenburgh Town,Transportation Right-of-Way,2433.11,Greenburgh,suffix-stripped
+Greenburgh Town,Schools,1312.11,Greenburgh,suffix-stripped
+Greenburgh Town,"County Owned Public Parks, Conservation, Forest Lands",1203.37,Greenburgh,suffix-stripped
+Greenburgh Town,Vacant Land,1144.11,Greenburgh,suffix-stripped
+Greenburgh Town,Private Golf Courses,974.95,Greenburgh,suffix-stripped
+Greenburgh Town,Multi-Family Residential,972.43,Greenburgh,suffix-stripped
+Greenburgh Town,State Parkway Lands,732.72,Greenburgh,suffix-stripped
+Greenburgh Town,"City/Town/Village Public Parks, Conservation, Forest Lands",719.94,Greenburgh,suffix-stripped
+Greenburgh Town,Colleges and Universities,510.50,Greenburgh,suffix-stripped
+Greenburgh Town,Office Building,461.39,Greenburgh,suffix-stripped
+Greenburgh Town,Utilities,320.02,Greenburgh,suffix-stripped
+Greenburgh Town,Commercial and Retail,290.98,Greenburgh,suffix-stripped
+Greenburgh Town,"Storage, Warehouse and Distribution Facilities",271.23,Greenburgh,suffix-stripped
+Greenburgh Town,Cemeteries,270.19,Greenburgh,suffix-stripped
+Greenburgh Town,Water Supply Lands,250.10,Greenburgh,suffix-stripped
+Greenburgh Town,Religious,189.01,Greenburgh,suffix-stripped
+Greenburgh Town,Two Family Residential,168.73,Greenburgh,suffix-stripped
+Greenburgh Town,Common Land Homeowners Assoc.,166.50,Greenburgh,suffix-stripped
+Greenburgh Town,Condominium,147.09,Greenburgh,suffix-stripped
+Greenburgh Town,Social and Health Services,144.98,Greenburgh,suffix-stripped
+Greenburgh Town,Interior Water Bodies,143.49,Greenburgh,suffix-stripped
+Greenburgh Town,"State Owned Public Parks, Conservation, Forest Lands",140.86,Greenburgh,suffix-stripped
+Greenburgh Town,Cultural Facilities,113.41,Greenburgh,suffix-stripped
+Greenburgh Town,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",111.46,Greenburgh,suffix-stripped
+Greenburgh Town,Transportation Facilities,102.25,Greenburgh,suffix-stripped
+Greenburgh Town,Vacant Land with Improvements,101.82,Greenburgh,suffix-stripped
+Greenburgh Town,"Manufacturing, Industrial, Mining and Quarrying",66.31,Greenburgh,suffix-stripped
+Greenburgh Town,Private Recreation-Other,66.03,Greenburgh,suffix-stripped
+Greenburgh Town,Mixed Use,61.71,Greenburgh,suffix-stripped
+Greenburgh Town,Estate and Rural Residential,52.48,Greenburgh,suffix-stripped
+Greenburgh Town,"Motor Vehicles, Sales and Service",50.86,Greenburgh,suffix-stripped
+Greenburgh Town,Regional Shopping Centers,43.53,Greenburgh,suffix-stripped
+Greenburgh Town,Three Family Residential,40.67,Greenburgh,suffix-stripped
+Greenburgh Town,Mixed Use-Downtown Row Type,38.98,Greenburgh,suffix-stripped
+Greenburgh Town,Private  Marinas,38.21,Greenburgh,suffix-stripped
+Greenburgh Town,Retail Nurseries and Greenhouses,37.19,Greenburgh,suffix-stripped
+Greenburgh Town,Restaurants,36.77,Greenburgh,suffix-stripped
+Greenburgh Town,Nature Preserves and Other Unspecified Protected Lands,32.84,Greenburgh,suffix-stripped
+Greenburgh Town,"Government Buildings, Facilities",24.82,Greenburgh,suffix-stripped
+Greenburgh Town,Recreation and Entertainment-Other,23.99,Greenburgh,suffix-stripped
+Greenburgh Town,Indoor Sports Facilities,18.79,Greenburgh,suffix-stripped
+Greenburgh Town,"Private Campgrounds, Cottages, Bungalows",14.92,Greenburgh,suffix-stripped
+Greenburgh Town,"Crops, Orchards, Vineyards",13.40,Greenburgh,suffix-stripped
+Greenburgh Town,Nurseries and Greenhouses - Agriculture,9.73,Greenburgh,suffix-stripped
+Greenburgh Town,Private Beaches,8.86,Greenburgh,suffix-stripped
+Greenburgh Town,Communication,8.61,Greenburgh,suffix-stripped
+Greenburgh Town,Public Safety Facilities,8.49,Greenburgh,suffix-stripped
+Greenburgh Town,Libraries,4.45,Greenburgh,suffix-stripped
+Greenburgh Town,Flood Control,3.75,Greenburgh,suffix-stripped
+Greenburgh Town,Parking Garages and Lots,2.54,Greenburgh,suffix-stripped
+Greenburgh Town,Hospitals,2.46,Greenburgh,suffix-stripped
+Greenburgh Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,1.19,Greenburgh,suffix-stripped
+Greenburgh Town,"Waste Disposal, Treatment Plants, Landfills",0.27,Greenburgh,suffix-stripped
+Harrison Town,Single Family Residential,3614.29,Harrison,suffix-stripped
+Harrison Town,Private Golf Courses,1223.95,Harrison,suffix-stripped
+Harrison Town,Transportation Right-of-Way,1155.10,Harrison,suffix-stripped
+Harrison Town,Vacant Land,920.31,Harrison,suffix-stripped
+Harrison Town,Office Building,616.33,Harrison,suffix-stripped
+Harrison Town,Colleges and Universities,580.84,Harrison,suffix-stripped
+Harrison Town,Water Supply Lands,523.54,Harrison,suffix-stripped
+Harrison Town,Estate and Rural Residential,430.98,Harrison,suffix-stripped
+Harrison Town,Transportation Facilities,339.98,Harrison,suffix-stripped
+Harrison Town,State Parkway Lands,240.86,Harrison,suffix-stripped
+Harrison Town,"City/Town/Village Public Parks, Conservation, Forest Lands",197.73,Harrison,suffix-stripped
+Harrison Town,Schools,196.93,Harrison,suffix-stripped
+Harrison Town,Two Family Residential,195.32,Harrison,suffix-stripped
+Harrison Town,"County Owned Public Parks, Conservation, Forest Lands",166.23,Harrison,suffix-stripped
+Harrison Town,Common Land Homeowners Assoc.,157.86,Harrison,suffix-stripped
+Harrison Town,"Government Buildings, Facilities",102.35,Harrison,suffix-stripped
+Harrison Town,Religious,79.62,Harrison,suffix-stripped
+Harrison Town,Hospitals,66.75,Harrison,suffix-stripped
+Harrison Town,Vacant Land with Improvements,60.04,Harrison,suffix-stripped
+Harrison Town,Mixed Use,40.33,Harrison,suffix-stripped
+Harrison Town,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",36.46,Harrison,suffix-stripped
+Harrison Town,Multi-Family Residential,32.32,Harrison,suffix-stripped
+Harrison Town,Flood Control,25.79,Harrison,suffix-stripped
+Harrison Town,Cemeteries,23.67,Harrison,suffix-stripped
+Harrison Town,Utilities,15.95,Harrison,suffix-stripped
+Harrison Town,Commercial and Retail,15.40,Harrison,suffix-stripped
+Harrison Town,Public Safety Facilities,11.35,Harrison,suffix-stripped
+Harrison Town,Three Family Residential,8.59,Harrison,suffix-stripped
+Harrison Town,Nature Preserves and Other Unspecified Protected Lands,8.46,Harrison,suffix-stripped
+Harrison Town,Interior Water Bodies,7.79,Harrison,suffix-stripped
+Harrison Town,"Horse, Livestock Farm",6.82,Harrison,suffix-stripped
+Harrison Town,Private Recreation-Other,6.61,Harrison,suffix-stripped
+Harrison Town,Cultural Facilities,5.93,Harrison,suffix-stripped
+Harrison Town,"Manufacturing, Industrial, Mining and Quarrying",4.44,Harrison,suffix-stripped
+Harrison Town,"State Owned Public Parks, Conservation, Forest Lands",4.32,Harrison,suffix-stripped
+Harrison Town,"Storage, Warehouse and Distribution Facilities",3.85,Harrison,suffix-stripped
+Harrison Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,3.82,Harrison,suffix-stripped
+Harrison Town,Retail Nurseries and Greenhouses,3.77,Harrison,suffix-stripped
+Harrison Town,Communication,2.57,Harrison,suffix-stripped
+Harrison Town,"Motor Vehicles, Sales and Service",2.41,Harrison,suffix-stripped
+Harrison Town,Restaurants,1.99,Harrison,suffix-stripped
+Harrison Town,Mixed Use-Downtown Row Type,1.77,Harrison,suffix-stripped
+Harrison Town,Social and Health Services,1.75,Harrison,suffix-stripped
+Harrison Town,Libraries,1.58,Harrison,suffix-stripped
+Harrison Town,Recreation and Entertainment-Other,0.35,Harrison,suffix-stripped
+Harrison Town,Parking Garages and Lots,0.23,Harrison,suffix-stripped
+Harrison Town,"Waste Disposal, Treatment Plants, Landfills",0.00,Harrison,suffix-stripped
+Lewisboro Town,Single Family Residential,8824.07,Lewisboro,suffix-stripped
+Lewisboro Town,Vacant Land,2051.15,Lewisboro,suffix-stripped
+Lewisboro Town,Water Supply Lands,1848.30,Lewisboro,suffix-stripped
+Lewisboro Town,"County Owned Public Parks, Conservation, Forest Lands",1285.73,Lewisboro,suffix-stripped
+Lewisboro Town,Transportation Right-of-Way,835.14,Lewisboro,suffix-stripped
+Lewisboro Town,Estate and Rural Residential,715.75,Lewisboro,suffix-stripped
+Lewisboro Town,Nature Preserves and Other Unspecified Protected Lands,698.13,Lewisboro,suffix-stripped
+Lewisboro Town,"City/Town/Village Public Parks, Conservation, Forest Lands",656.52,Lewisboro,suffix-stripped
+Lewisboro Town,"Horse, Livestock Farm",409.26,Lewisboro,suffix-stripped
+Lewisboro Town,Common Land Homeowners Assoc.,275.92,Lewisboro,suffix-stripped
+Lewisboro Town,Vacant Land with Improvements,248.07,Lewisboro,suffix-stripped
+Lewisboro Town,Private Golf Courses,154.68,Lewisboro,suffix-stripped
+Lewisboro Town,Schools,146.44,Lewisboro,suffix-stripped
+Lewisboro Town,Commercial and Retail,53.82,Lewisboro,suffix-stripped
+Lewisboro Town,Interior Water Bodies,47.87,Lewisboro,suffix-stripped
+Lewisboro Town,Social and Health Services,46.12,Lewisboro,suffix-stripped
+Lewisboro Town,Religious,38.29,Lewisboro,suffix-stripped
+Lewisboro Town,Two Family Residential,34.08,Lewisboro,suffix-stripped
+Lewisboro Town,Restaurants,33.83,Lewisboro,suffix-stripped
+Lewisboro Town,Utilities,33.32,Lewisboro,suffix-stripped
+Lewisboro Town,"Government Buildings, Facilities",29.59,Lewisboro,suffix-stripped
+Lewisboro Town,Private Beaches,24.97,Lewisboro,suffix-stripped
+Lewisboro Town,Transportation Facilities,23.51,Lewisboro,suffix-stripped
+Lewisboro Town,Multi-Family Residential,16.44,Lewisboro,suffix-stripped
+Lewisboro Town,Nurseries and Greenhouses - Agriculture,16.01,Lewisboro,suffix-stripped
+Lewisboro Town,Cemeteries,14.00,Lewisboro,suffix-stripped
+Lewisboro Town,"Storage, Warehouse and Distribution Facilities",13.79,Lewisboro,suffix-stripped
+Lewisboro Town,Public Safety Facilities,12.97,Lewisboro,suffix-stripped
+Lewisboro Town,"Motor Vehicles, Sales and Service",10.74,Lewisboro,suffix-stripped
+Lewisboro Town,Private Recreation-Other,10.04,Lewisboro,suffix-stripped
+Lewisboro Town,Indoor Sports Facilities,9.93,Lewisboro,suffix-stripped
+Lewisboro Town,"Waste Disposal, Treatment Plants, Landfills",8.44,Lewisboro,suffix-stripped
+Lewisboro Town,Condominium,7.98,Lewisboro,suffix-stripped
+Lewisboro Town,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",6.06,Lewisboro,suffix-stripped
+Lewisboro Town,Office Building,5.06,Lewisboro,suffix-stripped
+Lewisboro Town,Communication,4.20,Lewisboro,suffix-stripped
+Lewisboro Town,Three Family Residential,3.36,Lewisboro,suffix-stripped
+Lewisboro Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,3.09,Lewisboro,suffix-stripped
+Lewisboro Town,Mixed Use,1.19,Lewisboro,suffix-stripped
+Lewisboro Town,Retail Nurseries and Greenhouses,0.67,Lewisboro,suffix-stripped
+Lewisboro Town,Recreation and Entertainment-Other,0.65,Lewisboro,suffix-stripped
+Lewisboro Town,Libraries,0.57,Lewisboro,suffix-stripped
+Lewisboro Town,Cultural Facilities,0.56,Lewisboro,suffix-stripped
+Lewisboro Town,Mixed Use-Downtown Row Type,0.31,Lewisboro,suffix-stripped
+Mamaroneck Town,Single Family Residential,1809.73,Mamaroneck Town,exact
+Mamaroneck Town,Transportation Right-of-Way,750.51,Mamaroneck Town,exact
+Mamaroneck Town,Private Golf Courses,584.77,Mamaroneck Town,exact
+Mamaroneck Town,"County Owned Public Parks, Conservation, Forest Lands",198.87,Mamaroneck Town,exact
+Mamaroneck Town,"City/Town/Village Public Parks, Conservation, Forest Lands",188.62,Mamaroneck Town,exact
+Mamaroneck Town,Vacant Land,81.53,Mamaroneck Town,exact
+Mamaroneck Town,Multi-Family Residential,80.13,Mamaroneck Town,exact
+Mamaroneck Town,Two Family Residential,75.81,Mamaroneck Town,exact
+Mamaroneck Town,Schools,59.13,Mamaroneck Town,exact
+Mamaroneck Town,Transportation Facilities,43.72,Mamaroneck Town,exact
+Mamaroneck Town,Nature Preserves and Other Unspecified Protected Lands,33.17,Mamaroneck Town,exact
+Mamaroneck Town,Commercial and Retail,28.47,Mamaroneck Town,exact
+Mamaroneck Town,Religious,21.35,Mamaroneck Town,exact
+Mamaroneck Town,"Motor Vehicles, Sales and Service",21.31,Mamaroneck Town,exact
+Mamaroneck Town,Mixed Use,20.36,Mamaroneck Town,exact
+Mamaroneck Town,"Storage, Warehouse and Distribution Facilities",19.68,Mamaroneck Town,exact
+Mamaroneck Town,Mixed Use-Downtown Row Type,19.51,Mamaroneck Town,exact
+Mamaroneck Town,Estate and Rural Residential,18.47,Mamaroneck Town,exact
+Mamaroneck Town,Private Recreation-Other,17.58,Mamaroneck Town,exact
+Mamaroneck Town,"Government Buildings, Facilities",16.65,Mamaroneck Town,exact
+Mamaroneck Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,16.47,Mamaroneck Town,exact
+Mamaroneck Town,Water Supply Lands,15.49,Mamaroneck Town,exact
+Mamaroneck Town,Office Building,14.67,Mamaroneck Town,exact
+Mamaroneck Town,"Manufacturing, Industrial, Mining and Quarrying",14.26,Mamaroneck Town,exact
+Mamaroneck Town,Three Family Residential,13.95,Mamaroneck Town,exact
+Mamaroneck Town,Condominium,9.12,Mamaroneck Town,exact
+Mamaroneck Town,Private  Marinas,9.08,Mamaroneck Town,exact
+Mamaroneck Town,"Private Campgrounds, Cottages, Bungalows",7.00,Mamaroneck Town,exact
+Mamaroneck Town,Utilities,6.80,Mamaroneck Town,exact
+Mamaroneck Town,Social and Health Services,6.54,Mamaroneck Town,exact
+Mamaroneck Town,Parking Garages and Lots,6.50,Mamaroneck Town,exact
+Mamaroneck Town,Retail Nurseries and Greenhouses,6.45,Mamaroneck Town,exact
+Mamaroneck Town,"Waste Disposal, Treatment Plants, Landfills",6.31,Mamaroneck Town,exact
+Mamaroneck Town,Common Land Homeowners Assoc.,6.06,Mamaroneck Town,exact
+Mamaroneck Town,Restaurants,5.51,Mamaroneck Town,exact
+Mamaroneck Town,Vacant Land with Improvements,5.29,Mamaroneck Town,exact
+Mamaroneck Town,Public Safety Facilities,4.00,Mamaroneck Town,exact
+Mamaroneck Town,Cultural Facilities,3.48,Mamaroneck Town,exact
+Mamaroneck Town,Cemeteries,2.41,Mamaroneck Town,exact
+Mamaroneck Town,Regional Shopping Centers,1.95,Mamaroneck Town,exact
+Mamaroneck Town,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",1.10,Mamaroneck Town,exact
+Mamaroneck Town,Libraries,0.93,Mamaroneck Town,exact
+Mamaroneck Town,Recreation and Entertainment-Other,0.81,Mamaroneck Town,exact
+Mamaroneck Town,Communication,0.44,Mamaroneck Town,exact
+Mamaroneck Town,Indoor Sports Facilities,0.33,Mamaroneck Town,exact
+Mamaroneck Town,Interior Water Bodies,0.04,Mamaroneck Town,exact
+Mount Kisco Town,Single Family Residential,389.54,Mount Kisco,suffix-stripped
+Mount Kisco Town,Transportation Right-of-Way,175.73,Mount Kisco,suffix-stripped
+Mount Kisco Town,Common Land Homeowners Assoc.,149.40,Mount Kisco,suffix-stripped
+Mount Kisco Town,"City/Town/Village Public Parks, Conservation, Forest Lands",137.83,Mount Kisco,suffix-stripped
+Mount Kisco Town,Vacant Land,124.13,Mount Kisco,suffix-stripped
+Mount Kisco Town,Water Supply Lands,103.79,Mount Kisco,suffix-stripped
+Mount Kisco Town,Private Golf Courses,103.75,Mount Kisco,suffix-stripped
+Mount Kisco Town,Cemeteries,72.89,Mount Kisco,suffix-stripped
+Mount Kisco Town,Multi-Family Residential,65.85,Mount Kisco,suffix-stripped
+Mount Kisco Town,"Storage, Warehouse and Distribution Facilities",56.70,Mount Kisco,suffix-stripped
+Mount Kisco Town,Nature Preserves and Other Unspecified Protected Lands,52.36,Mount Kisco,suffix-stripped
+Mount Kisco Town,State Parkway Lands,51.42,Mount Kisco,suffix-stripped
+Mount Kisco Town,Two Family Residential,51.01,Mount Kisco,suffix-stripped
+Mount Kisco Town,"Manufacturing, Industrial, Mining and Quarrying",47.49,Mount Kisco,suffix-stripped
+Mount Kisco Town,Commercial and Retail,42.83,Mount Kisco,suffix-stripped
+Mount Kisco Town,Vacant Land with Improvements,42.24,Mount Kisco,suffix-stripped
+Mount Kisco Town,Office Building,40.69,Mount Kisco,suffix-stripped
+Mount Kisco Town,Transportation Facilities,34.28,Mount Kisco,suffix-stripped
+Mount Kisco Town,Estate and Rural Residential,25.25,Mount Kisco,suffix-stripped
+Mount Kisco Town,"Government Buildings, Facilities",24.47,Mount Kisco,suffix-stripped
+Mount Kisco Town,Regional Shopping Centers,24.41,Mount Kisco,suffix-stripped
+Mount Kisco Town,Religious,24.40,Mount Kisco,suffix-stripped
+Mount Kisco Town,"Motor Vehicles, Sales and Service",17.38,Mount Kisco,suffix-stripped
+Mount Kisco Town,Social and Health Services,14.34,Mount Kisco,suffix-stripped
+Mount Kisco Town,Condominium,13.93,Mount Kisco,suffix-stripped
+Mount Kisco Town,Mixed Use-Downtown Row Type,12.93,Mount Kisco,suffix-stripped
+Mount Kisco Town,Hospitals,12.80,Mount Kisco,suffix-stripped
+Mount Kisco Town,Parking Garages and Lots,9.48,Mount Kisco,suffix-stripped
+Mount Kisco Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,8.30,Mount Kisco,suffix-stripped
+Mount Kisco Town,Schools,6.83,Mount Kisco,suffix-stripped
+Mount Kisco Town,Restaurants,6.60,Mount Kisco,suffix-stripped
+Mount Kisco Town,Indoor Sports Facilities,6.11,Mount Kisco,suffix-stripped
+Mount Kisco Town,Three Family Residential,6.00,Mount Kisco,suffix-stripped
+Mount Kisco Town,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",5.57,Mount Kisco,suffix-stripped
+Mount Kisco Town,Mixed Use,2.83,Mount Kisco,suffix-stripped
+Mount Kisco Town,Public Safety Facilities,2.49,Mount Kisco,suffix-stripped
+Mount Kisco Town,Retail Nurseries and Greenhouses,2.20,Mount Kisco,suffix-stripped
+Mount Kisco Town,Cultural Facilities,0.95,Mount Kisco,suffix-stripped
+Mount Kisco Town,Communication,0.85,Mount Kisco,suffix-stripped
+Mount Kisco Town,"Waste Disposal, Treatment Plants, Landfills",0.51,Mount Kisco,suffix-stripped
+Mount Kisco Town,Recreation and Entertainment-Other,0.20,Mount Kisco,suffix-stripped
+Mount Pleasant Town,Single Family Residential,4770.63,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Vacant Land,1556.87,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Transportation Right-of-Way,1446.03,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,"State Owned Public Parks, Conservation, Forest Lands",1381.86,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Water Supply Lands,1122.78,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Cemeteries,918.09,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,State Parkway Lands,862.21,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,"County Owned Public Parks, Conservation, Forest Lands",678.75,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Agriculture-vacant land (productive),619.44,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Estate and Rural Residential,612.99,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Schools,522.78,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,"Private Campgrounds, Cottages, Bungalows",406.52,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,"Government Buildings, Facilities",398.16,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Utilities,372.18,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Office Building,336.26,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Colleges and Universities,233.47,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,"City/Town/Village Public Parks, Conservation, Forest Lands",208.96,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Religious,196.42,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Social and Health Services,151.20,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Transportation Facilities,134.77,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Two Family Residential,134.19,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,"Manufacturing, Industrial, Mining and Quarrying",109.86,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Hospitals,98.04,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Private Golf Courses,90.36,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Condominium,82.02,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Mixed Use,80.47,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,"Waste Disposal, Treatment Plants, Landfills",75.12,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Restaurants,65.61,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Public Safety Facilities,60.18,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Commercial and Retail,59.52,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Nature Preserves and Other Unspecified Protected Lands,58.36,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Common Land Homeowners Assoc.,57.73,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,"Storage, Warehouse and Distribution Facilities",48.75,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Multi-Family Residential,41.37,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Indoor Sports Facilities,34.29,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Communication,31.49,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Retail Nurseries and Greenhouses,27.98,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Private Recreation-Other,25.67,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Cultural Facilities,25.07,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,"Motor Vehicles, Sales and Service",23.79,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,22.90,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Three Family Residential,20.03,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Vacant Land with Improvements,19.46,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Nurseries and Greenhouses - Agriculture,15.21,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Regional Shopping Centers,12.24,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,"Horse, Livestock Farm",12.20,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Parking Garages and Lots,11.26,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",9.67,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Recreation and Entertainment-Other,9.65,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Mixed Use-Downtown Row Type,8.79,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Interior Water Bodies,6.56,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Private  Marinas,3.73,Mount Pleasant,suffix-stripped
+Mount Pleasant Town,Libraries,1.39,Mount Pleasant,suffix-stripped
+Mount Vernon City,Transportation Right-of-Way,618.09,Mount Vernon,suffix-stripped
+Mount Vernon City,Single Family Residential,611.03,Mount Vernon,suffix-stripped
+Mount Vernon City,Two Family Residential,308.94,Mount Vernon,suffix-stripped
+Mount Vernon City,Multi-Family Residential,189.22,Mount Vernon,suffix-stripped
+Mount Vernon City,"Manufacturing, Industrial, Mining and Quarrying",167.14,Mount Vernon,suffix-stripped
+Mount Vernon City,Three Family Residential,140.06,Mount Vernon,suffix-stripped
+Mount Vernon City,Schools,103.01,Mount Vernon,suffix-stripped
+Mount Vernon City,State Parkway Lands,89.58,Mount Vernon,suffix-stripped
+Mount Vernon City,"County Owned Public Parks, Conservation, Forest Lands",73.47,Mount Vernon,suffix-stripped
+Mount Vernon City,"City/Town/Village Public Parks, Conservation, Forest Lands",71.86,Mount Vernon,suffix-stripped
+Mount Vernon City,Vacant Land,71.65,Mount Vernon,suffix-stripped
+Mount Vernon City,Transportation Facilities,63.55,Mount Vernon,suffix-stripped
+Mount Vernon City,Commercial and Retail,61.47,Mount Vernon,suffix-stripped
+Mount Vernon City,Condominium,44.95,Mount Vernon,suffix-stripped
+Mount Vernon City,Religious,29.68,Mount Vernon,suffix-stripped
+Mount Vernon City,Mixed Use-Downtown Row Type,27.77,Mount Vernon,suffix-stripped
+Mount Vernon City,"Motor Vehicles, Sales and Service",20.72,Mount Vernon,suffix-stripped
+Mount Vernon City,"Storage, Warehouse and Distribution Facilities",19.75,Mount Vernon,suffix-stripped
+Mount Vernon City,Parking Garages and Lots,14.43,Mount Vernon,suffix-stripped
+Mount Vernon City,Vacant Land with Improvements,11.31,Mount Vernon,suffix-stripped
+Mount Vernon City,Social and Health Services,10.44,Mount Vernon,suffix-stripped
+Mount Vernon City,Mixed Use,10.31,Mount Vernon,suffix-stripped
+Mount Vernon City,Private Golf Courses,7.94,Mount Vernon,suffix-stripped
+Mount Vernon City,Regional Shopping Centers,7.17,Mount Vernon,suffix-stripped
+Mount Vernon City,Office Building,6.41,Mount Vernon,suffix-stripped
+Mount Vernon City,Cemeteries,5.99,Mount Vernon,suffix-stripped
+Mount Vernon City,"Waste Disposal, Treatment Plants, Landfills",5.51,Mount Vernon,suffix-stripped
+Mount Vernon City,"Government Buildings, Facilities",4.41,Mount Vernon,suffix-stripped
+Mount Vernon City,Public Safety Facilities,4.05,Mount Vernon,suffix-stripped
+Mount Vernon City,Cultural Facilities,2.89,Mount Vernon,suffix-stripped
+Mount Vernon City,Utilities,2.77,Mount Vernon,suffix-stripped
+Mount Vernon City,Restaurants,2.65,Mount Vernon,suffix-stripped
+Mount Vernon City,Hospitals,2.40,Mount Vernon,suffix-stripped
+Mount Vernon City,Communication,1.00,Mount Vernon,suffix-stripped
+Mount Vernon City,Libraries,0.97,Mount Vernon,suffix-stripped
+Mount Vernon City,Private Recreation-Other,0.94,Mount Vernon,suffix-stripped
+Mount Vernon City,Retail Nurseries and Greenhouses,0.90,Mount Vernon,suffix-stripped
+Mount Vernon City,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",0.89,Mount Vernon,suffix-stripped
+Mount Vernon City,Nature Preserves and Other Unspecified Protected Lands,0.34,Mount Vernon,suffix-stripped
+Mount Vernon City,Water Supply Lands,0.07,Mount Vernon,suffix-stripped
+New Castle Town,Single Family Residential,6564.60,New Castle,suffix-stripped
+New Castle Town,Vacant Land,1647.45,New Castle,suffix-stripped
+New Castle Town,Estate and Rural Residential,1097.31,New Castle,suffix-stripped
+New Castle Town,Transportation Right-of-Way,956.40,New Castle,suffix-stripped
+New Castle Town,"City/Town/Village Public Parks, Conservation, Forest Lands",798.28,New Castle,suffix-stripped
+New Castle Town,State Parkway Lands,474.43,New Castle,suffix-stripped
+New Castle Town,Water Supply Lands,333.90,New Castle,suffix-stripped
+New Castle Town,"County Owned Public Parks, Conservation, Forest Lands",322.18,New Castle,suffix-stripped
+New Castle Town,Utilities,298.16,New Castle,suffix-stripped
+New Castle Town,Religious,246.39,New Castle,suffix-stripped
+New Castle Town,Nature Preserves and Other Unspecified Protected Lands,235.91,New Castle,suffix-stripped
+New Castle Town,Schools,227.35,New Castle,suffix-stripped
+New Castle Town,"Private Campgrounds, Cottages, Bungalows",223.04,New Castle,suffix-stripped
+New Castle Town,Condominium,209.96,New Castle,suffix-stripped
+New Castle Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,206.19,New Castle,suffix-stripped
+New Castle Town,Two Family Residential,138.75,New Castle,suffix-stripped
+New Castle Town,Private Golf Courses,134.31,New Castle,suffix-stripped
+New Castle Town,Office Building,117.86,New Castle,suffix-stripped
+New Castle Town,Social and Health Services,106.96,New Castle,suffix-stripped
+New Castle Town,Multi-Family Residential,98.62,New Castle,suffix-stripped
+New Castle Town,Common Land Homeowners Assoc.,84.54,New Castle,suffix-stripped
+New Castle Town,Commercial and Retail,60.88,New Castle,suffix-stripped
+New Castle Town,Vacant Land with Improvements,60.55,New Castle,suffix-stripped
+New Castle Town,Indoor Sports Facilities,54.10,New Castle,suffix-stripped
+New Castle Town,Private Recreation-Other,46.72,New Castle,suffix-stripped
+New Castle Town,"Government Buildings, Facilities",40.04,New Castle,suffix-stripped
+New Castle Town,Agriculture Other,33.17,New Castle,suffix-stripped
+New Castle Town,"State Owned Public Parks, Conservation, Forest Lands",27.62,New Castle,suffix-stripped
+New Castle Town,Transportation Facilities,24.86,New Castle,suffix-stripped
+New Castle Town,"Manufacturing, Industrial, Mining and Quarrying",20.80,New Castle,suffix-stripped
+New Castle Town,Nurseries and Greenhouses - Agriculture,17.57,New Castle,suffix-stripped
+New Castle Town,Cultural Facilities,13.83,New Castle,suffix-stripped
+New Castle Town,Cemeteries,13.23,New Castle,suffix-stripped
+New Castle Town,Interior Water Bodies,9.67,New Castle,suffix-stripped
+New Castle Town,"Storage, Warehouse and Distribution Facilities",8.08,New Castle,suffix-stripped
+New Castle Town,Retail Nurseries and Greenhouses,6.75,New Castle,suffix-stripped
+New Castle Town,Restaurants,6.71,New Castle,suffix-stripped
+New Castle Town,Mixed Use,5.69,New Castle,suffix-stripped
+New Castle Town,Agriculture-vacant land (productive),5.47,New Castle,suffix-stripped
+New Castle Town,Mixed Use-Downtown Row Type,4.60,New Castle,suffix-stripped
+New Castle Town,Public Safety Facilities,3.55,New Castle,suffix-stripped
+New Castle Town,Libraries,3.38,New Castle,suffix-stripped
+New Castle Town,"Motor Vehicles, Sales and Service",2.34,New Castle,suffix-stripped
+New Castle Town,Parking Garages and Lots,2.06,New Castle,suffix-stripped
+New Castle Town,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",1.66,New Castle,suffix-stripped
+New Castle Town,Communication,1.25,New Castle,suffix-stripped
+New Castle Town,Three Family Residential,1.14,New Castle,suffix-stripped
+New Castle Town,Recreation and Entertainment-Other,0.38,New Castle,suffix-stripped
+New Rochelle City,Single Family Residential,2601.63,New Rochelle,suffix-stripped
+New Rochelle City,"City/Town/Village Public Parks, Conservation, Forest Lands",294.01,New Rochelle,suffix-stripped
+New Rochelle City,Multi-Family Residential,269.25,New Rochelle,suffix-stripped
+New Rochelle City,Private Golf Courses,258.45,New Rochelle,suffix-stripped
+New Rochelle City,Two Family Residential,242.60,New Rochelle,suffix-stripped
+New Rochelle City,Vacant Land,232.69,New Rochelle,suffix-stripped
+New Rochelle City,"County Owned Public Parks, Conservation, Forest Lands",177.84,New Rochelle,suffix-stripped
+New Rochelle City,Schools,161.58,New Rochelle,suffix-stripped
+New Rochelle City,Religious,108.70,New Rochelle,suffix-stripped
+New Rochelle City,Nature Preserves and Other Unspecified Protected Lands,105.83,New Rochelle,suffix-stripped
+New Rochelle City,Transportation Right-of-Way,98.67,New Rochelle,suffix-stripped
+New Rochelle City,State Parkway Lands,85.59,New Rochelle,suffix-stripped
+New Rochelle City,Three Family Residential,83.98,New Rochelle,suffix-stripped
+New Rochelle City,Commercial and Retail,71.79,New Rochelle,suffix-stripped
+New Rochelle City,Transportation Facilities,61.23,New Rochelle,suffix-stripped
+New Rochelle City,Private Recreation-Other,60.35,New Rochelle,suffix-stripped
+New Rochelle City,Colleges and Universities,57.42,New Rochelle,suffix-stripped
+New Rochelle City,Cemeteries,53.90,New Rochelle,suffix-stripped
+New Rochelle City,Regional Shopping Centers,53.45,New Rochelle,suffix-stripped
+New Rochelle City,Water Supply Lands,49.03,New Rochelle,suffix-stripped
+New Rochelle City,"Storage, Warehouse and Distribution Facilities",45.56,New Rochelle,suffix-stripped
+New Rochelle City,"Motor Vehicles, Sales and Service",37.20,New Rochelle,suffix-stripped
+New Rochelle City,"Manufacturing, Industrial, Mining and Quarrying",31.30,New Rochelle,suffix-stripped
+New Rochelle City,Parking Garages and Lots,27.32,New Rochelle,suffix-stripped
+New Rochelle City,Office Building,19.96,New Rochelle,suffix-stripped
+New Rochelle City,Private  Marinas,19.68,New Rochelle,suffix-stripped
+New Rochelle City,Mixed Use-Downtown Row Type,19.63,New Rochelle,suffix-stripped
+New Rochelle City,"Waste Disposal, Treatment Plants, Landfills",15.40,New Rochelle,suffix-stripped
+New Rochelle City,Vacant Land with Improvements,15.28,New Rochelle,suffix-stripped
+New Rochelle City,Social and Health Services,12.27,New Rochelle,suffix-stripped
+New Rochelle City,Hospitals,11.91,New Rochelle,suffix-stripped
+New Rochelle City,Private Beaches,11.58,New Rochelle,suffix-stripped
+New Rochelle City,Mixed Use,10.61,New Rochelle,suffix-stripped
+New Rochelle City,"Government Buildings, Facilities",9.59,New Rochelle,suffix-stripped
+New Rochelle City,Common Land Homeowners Assoc.,9.18,New Rochelle,suffix-stripped
+New Rochelle City,Restaurants,8.89,New Rochelle,suffix-stripped
+New Rochelle City,Cultural Facilities,7.82,New Rochelle,suffix-stripped
+New Rochelle City,Utilities,7.07,New Rochelle,suffix-stripped
+New Rochelle City,Estate and Rural Residential,5.78,New Rochelle,suffix-stripped
+New Rochelle City,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",5.36,New Rochelle,suffix-stripped
+New Rochelle City,Retail Nurseries and Greenhouses,4.93,New Rochelle,suffix-stripped
+New Rochelle City,Indoor Sports Facilities,3.62,New Rochelle,suffix-stripped
+New Rochelle City,Military Installations,3.02,New Rochelle,suffix-stripped
+New Rochelle City,Public Safety Facilities,2.78,New Rochelle,suffix-stripped
+New Rochelle City,Communication,2.05,New Rochelle,suffix-stripped
+New Rochelle City,Condominium,1.86,New Rochelle,suffix-stripped
+New Rochelle City,Flood Control,1.45,New Rochelle,suffix-stripped
+New Rochelle City,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,1.07,New Rochelle,suffix-stripped
+New Rochelle City,Libraries,0.83,New Rochelle,suffix-stripped
+New Rochelle City,Recreation and Entertainment-Other,0.78,New Rochelle,suffix-stripped
+New Rochelle City,Single Family Residential w/Accesory Apartment,0.09,New Rochelle,suffix-stripped
+North Castle Town,Single Family Residential,6156.28,North Castle,suffix-stripped
+North Castle Town,Water Supply Lands,3132.42,North Castle,suffix-stripped
+North Castle Town,Vacant Land,1380.06,North Castle,suffix-stripped
+North Castle Town,Transportation Right-of-Way,1253.43,North Castle,suffix-stripped
+North Castle Town,Nature Preserves and Other Unspecified Protected Lands,1140.67,North Castle,suffix-stripped
+North Castle Town,Estate and Rural Residential,870.96,North Castle,suffix-stripped
+North Castle Town,Office Building,469.94,North Castle,suffix-stripped
+North Castle Town,"City/Town/Village Public Parks, Conservation, Forest Lands",466.06,North Castle,suffix-stripped
+North Castle Town,"County Owned Public Parks, Conservation, Forest Lands",332.85,North Castle,suffix-stripped
+North Castle Town,Private Golf Courses,253.25,North Castle,suffix-stripped
+North Castle Town,Transportation Facilities,178.67,North Castle,suffix-stripped
+North Castle Town,Schools,141.15,North Castle,suffix-stripped
+North Castle Town,Colleges and Universities,109.71,North Castle,suffix-stripped
+North Castle Town,Cultural Facilities,91.17,North Castle,suffix-stripped
+North Castle Town,Two Family Residential,76.86,North Castle,suffix-stripped
+North Castle Town,"Horse, Livestock Farm",75.69,North Castle,suffix-stripped
+North Castle Town,"Storage, Warehouse and Distribution Facilities",69.12,North Castle,suffix-stripped
+North Castle Town,Nurseries and Greenhouses - Agriculture,65.87,North Castle,suffix-stripped
+North Castle Town,Interior Water Bodies,55.67,North Castle,suffix-stripped
+North Castle Town,Private Recreation-Other,52.53,North Castle,suffix-stripped
+North Castle Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,52.45,North Castle,suffix-stripped
+North Castle Town,Vacant Land with Improvements,48.85,North Castle,suffix-stripped
+North Castle Town,Commercial and Retail,43.73,North Castle,suffix-stripped
+North Castle Town,Social and Health Services,38.89,North Castle,suffix-stripped
+North Castle Town,Religious,28.34,North Castle,suffix-stripped
+North Castle Town,Mixed Use,27.96,North Castle,suffix-stripped
+North Castle Town,Common Land Homeowners Assoc.,26.71,North Castle,suffix-stripped
+North Castle Town,"Waste Disposal, Treatment Plants, Landfills",25.64,North Castle,suffix-stripped
+North Castle Town,Indoor Sports Facilities,20.06,North Castle,suffix-stripped
+North Castle Town,Cemeteries,17.26,North Castle,suffix-stripped
+North Castle Town,Restaurants,14.09,North Castle,suffix-stripped
+North Castle Town,"Private Campgrounds, Cottages, Bungalows",13.46,North Castle,suffix-stripped
+North Castle Town,"Government Buildings, Facilities",11.29,North Castle,suffix-stripped
+North Castle Town,"Motor Vehicles, Sales and Service",7.18,North Castle,suffix-stripped
+North Castle Town,Public Safety Facilities,7.10,North Castle,suffix-stripped
+North Castle Town,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",5.56,North Castle,suffix-stripped
+North Castle Town,"Manufacturing, Industrial, Mining and Quarrying",3.52,North Castle,suffix-stripped
+North Castle Town,Multi-Family Residential,3.06,North Castle,suffix-stripped
+North Castle Town,Three Family Residential,2.57,North Castle,suffix-stripped
+North Castle Town,Communication,1.97,North Castle,suffix-stripped
+North Castle Town,Mixed Use-Downtown Row Type,1.63,North Castle,suffix-stripped
+North Castle Town,Utilities,1.18,North Castle,suffix-stripped
+North Castle Town,Parking Garages and Lots,1.16,North Castle,suffix-stripped
+North Castle Town,Regional Shopping Centers,0.92,North Castle,suffix-stripped
+North Castle Town,Flood Control,0.68,North Castle,suffix-stripped
+North Castle Town,Libraries,0.46,North Castle,suffix-stripped
+North Salem Town,Vacant Land,2983.73,North Salem,suffix-stripped
+North Salem Town,Single Family Residential,2816.77,North Salem,suffix-stripped
+North Salem Town,Estate and Rural Residential,2773.48,North Salem,suffix-stripped
+North Salem Town,Water Supply Lands,1274.45,North Salem,suffix-stripped
+North Salem Town,Nature Preserves and Other Unspecified Protected Lands,923.15,North Salem,suffix-stripped
+North Salem Town,"County Owned Public Parks, Conservation, Forest Lands",921.81,North Salem,suffix-stripped
+North Salem Town,Transportation Right-of-Way,636.29,North Salem,suffix-stripped
+North Salem Town,"Crops, Orchards, Vineyards",529.31,North Salem,suffix-stripped
+North Salem Town,"Horse, Livestock Farm",423.58,North Salem,suffix-stripped
+North Salem Town,Agriculture-vacant land (productive),368.80,North Salem,suffix-stripped
+North Salem Town,Common Land Homeowners Assoc.,194.77,North Salem,suffix-stripped
+North Salem Town,Private Golf Courses,154.37,North Salem,suffix-stripped
+North Salem Town,Vacant Land with Improvements,142.45,North Salem,suffix-stripped
+North Salem Town,Schools,117.72,North Salem,suffix-stripped
+North Salem Town,Interior Water Bodies,111.36,North Salem,suffix-stripped
+North Salem Town,Public Golf Courses,110.36,North Salem,suffix-stripped
+North Salem Town,"City/Town/Village Public Parks, Conservation, Forest Lands",45.80,North Salem,suffix-stripped
+North Salem Town,Transportation Facilities,45.16,North Salem,suffix-stripped
+North Salem Town,Two Family Residential,40.85,North Salem,suffix-stripped
+North Salem Town,Nurseries and Greenhouses - Agriculture,38.91,North Salem,suffix-stripped
+North Salem Town,"Manufacturing, Industrial, Mining and Quarrying",32.59,North Salem,suffix-stripped
+North Salem Town,Social and Health Services,24.70,North Salem,suffix-stripped
+North Salem Town,Restaurants,24.30,North Salem,suffix-stripped
+North Salem Town,"Government Buildings, Facilities",14.98,North Salem,suffix-stripped
+North Salem Town,Utilities,13.27,North Salem,suffix-stripped
+North Salem Town,Cultural Facilities,11.31,North Salem,suffix-stripped
+North Salem Town,Private Recreation-Other,11.06,North Salem,suffix-stripped
+North Salem Town,Commercial and Retail,8.61,North Salem,suffix-stripped
+North Salem Town,Mixed Use,8.27,North Salem,suffix-stripped
+North Salem Town,Religious,7.68,North Salem,suffix-stripped
+North Salem Town,Cemeteries,7.05,North Salem,suffix-stripped
+North Salem Town,Public Safety Facilities,7.00,North Salem,suffix-stripped
+North Salem Town,Three Family Residential,5.68,North Salem,suffix-stripped
+North Salem Town,Office Building,5.37,North Salem,suffix-stripped
+North Salem Town,Communication,5.25,North Salem,suffix-stripped
+North Salem Town,Libraries,4.51,North Salem,suffix-stripped
+North Salem Town,Multi-Family Residential,4.50,North Salem,suffix-stripped
+North Salem Town,Agriculture Other,4.03,North Salem,suffix-stripped
+North Salem Town,Condominium,3.38,North Salem,suffix-stripped
+North Salem Town,"Motor Vehicles, Sales and Service",3.06,North Salem,suffix-stripped
+North Salem Town,"Storage, Warehouse and Distribution Facilities",2.63,North Salem,suffix-stripped
+North Salem Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,0.88,North Salem,suffix-stripped
+North Salem Town,Recreation and Entertainment-Other,0.39,North Salem,suffix-stripped
+Ossining Town,Single Family Residential,2906.53,Ossining Town,exact
+Ossining Town,Transportation Right-of-Way,722.33,Ossining Town,exact
+Ossining Town,Vacant Land,551.36,Ossining Town,exact
+Ossining Town,Private Golf Courses,391.05,Ossining Town,exact
+Ossining Town,Interior Water Bodies,388.92,Ossining Town,exact
+Ossining Town,"City/Town/Village Public Parks, Conservation, Forest Lands",339.68,Ossining Town,exact
+Ossining Town,Condominium,325.01,Ossining Town,exact
+Ossining Town,Estate and Rural Residential,253.88,Ossining Town,exact
+Ossining Town,Multi-Family Residential,201.05,Ossining Town,exact
+Ossining Town,Schools,187.84,Ossining Town,exact
+Ossining Town,Religious,176.49,Ossining Town,exact
+Ossining Town,Two Family Residential,160.40,Ossining Town,exact
+Ossining Town,State Parkway Lands,154.46,Ossining Town,exact
+Ossining Town,Social and Health Services,139.51,Ossining Town,exact
+Ossining Town,Office Building,104.95,Ossining Town,exact
+Ossining Town,"Manufacturing, Industrial, Mining and Quarrying",102.67,Ossining Town,exact
+Ossining Town,Commercial and Retail,91.70,Ossining Town,exact
+Ossining Town,Cemeteries,70.08,Ossining Town,exact
+Ossining Town,Public Safety Facilities,65.65,Ossining Town,exact
+Ossining Town,"County Owned Public Parks, Conservation, Forest Lands",49.11,Ossining Town,exact
+Ossining Town,Transportation Facilities,47.47,Ossining Town,exact
+Ossining Town,"State Owned Public Parks, Conservation, Forest Lands",42.45,Ossining Town,exact
+Ossining Town,Water Supply Lands,40.40,Ossining Town,exact
+Ossining Town,Colleges and Universities,36.13,Ossining Town,exact
+Ossining Town,Three Family Residential,33.22,Ossining Town,exact
+Ossining Town,Common Land Homeowners Assoc.,32.71,Ossining Town,exact
+Ossining Town,"Storage, Warehouse and Distribution Facilities",27.45,Ossining Town,exact
+Ossining Town,Vacant Land with Improvements,23.10,Ossining Town,exact
+Ossining Town,"Motor Vehicles, Sales and Service",21.52,Ossining Town,exact
+Ossining Town,Cultural Facilities,21.49,Ossining Town,exact
+Ossining Town,Private Recreation-Other,20.40,Ossining Town,exact
+Ossining Town,Nature Preserves and Other Unspecified Protected Lands,18.77,Ossining Town,exact
+Ossining Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,17.50,Ossining Town,exact
+Ossining Town,Regional Shopping Centers,15.12,Ossining Town,exact
+Ossining Town,Parking Garages and Lots,12.70,Ossining Town,exact
+Ossining Town,"Government Buildings, Facilities",11.96,Ossining Town,exact
+Ossining Town,Indoor Sports Facilities,11.24,Ossining Town,exact
+Ossining Town,Restaurants,11.14,Ossining Town,exact
+Ossining Town,Private  Marinas,9.38,Ossining Town,exact
+Ossining Town,Utilities,8.19,Ossining Town,exact
+Ossining Town,"Waste Disposal, Treatment Plants, Landfills",7.88,Ossining Town,exact
+Ossining Town,Mixed Use,7.62,Ossining Town,exact
+Ossining Town,Mixed Use-Downtown Row Type,7.07,Ossining Town,exact
+Ossining Town,Libraries,3.65,Ossining Town,exact
+Ossining Town,Communication,3.16,Ossining Town,exact
+Ossining Town,Retail Nurseries and Greenhouses,1.84,Ossining Town,exact
+Ossining Town,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",1.44,Ossining Town,exact
+Ossining Town,Flood Control,0.19,Ossining Town,exact
+Peekskill City,Single Family Residential,554.99,Peekskill,suffix-stripped
+Peekskill City,Interior Water Bodies,512.96,Peekskill,suffix-stripped
+Peekskill City,"City/Town/Village Public Parks, Conservation, Forest Lands",346.01,Peekskill,suffix-stripped
+Peekskill City,Transportation Right-of-Way,336.32,Peekskill,suffix-stripped
+Peekskill City,Condominium,268.61,Peekskill,suffix-stripped
+Peekskill City,Vacant Land,180.78,Peekskill,suffix-stripped
+Peekskill City,Multi-Family Residential,166.69,Peekskill,suffix-stripped
+Peekskill City,"County Owned Public Parks, Conservation, Forest Lands",136.50,Peekskill,suffix-stripped
+Peekskill City,Two Family Residential,118.52,Peekskill,suffix-stripped
+Peekskill City,State Parkway Lands,106.02,Peekskill,suffix-stripped
+Peekskill City,"Storage, Warehouse and Distribution Facilities",102.62,Peekskill,suffix-stripped
+Peekskill City,"Waste Disposal, Treatment Plants, Landfills",97.74,Peekskill,suffix-stripped
+Peekskill City,Schools,55.27,Peekskill,suffix-stripped
+Peekskill City,Transportation Facilities,52.33,Peekskill,suffix-stripped
+Peekskill City,Religious,44.03,Peekskill,suffix-stripped
+Peekskill City,Water Supply Lands,42.39,Peekskill,suffix-stripped
+Peekskill City,"Manufacturing, Industrial, Mining and Quarrying",42.30,Peekskill,suffix-stripped
+Peekskill City,Three Family Residential,38.79,Peekskill,suffix-stripped
+Peekskill City,Commercial and Retail,33.77,Peekskill,suffix-stripped
+Peekskill City,Regional Shopping Centers,21.22,Peekskill,suffix-stripped
+Peekskill City,Office Building,20.50,Peekskill,suffix-stripped
+Peekskill City,Nature Preserves and Other Unspecified Protected Lands,19.48,Peekskill,suffix-stripped
+Peekskill City,Common Land Homeowners Assoc.,19.26,Peekskill,suffix-stripped
+Peekskill City,"Motor Vehicles, Sales and Service",15.03,Peekskill,suffix-stripped
+Peekskill City,Public Safety Facilities,13.28,Peekskill,suffix-stripped
+Peekskill City,Mixed Use-Downtown Row Type,11.68,Peekskill,suffix-stripped
+Peekskill City,Estate and Rural Residential,8.97,Peekskill,suffix-stripped
+Peekskill City,Social and Health Services,7.34,Peekskill,suffix-stripped
+Peekskill City,Mixed Use,7.07,Peekskill,suffix-stripped
+Peekskill City,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",6.69,Peekskill,suffix-stripped
+Peekskill City,Agriculture Other,6.63,Peekskill,suffix-stripped
+Peekskill City,"Government Buildings, Facilities",6.02,Peekskill,suffix-stripped
+Peekskill City,Vacant Land with Improvements,5.89,Peekskill,suffix-stripped
+Peekskill City,Cultural Facilities,3.82,Peekskill,suffix-stripped
+Peekskill City,Recreation and Entertainment-Other,3.69,Peekskill,suffix-stripped
+Peekskill City,Restaurants,2.52,Peekskill,suffix-stripped
+Peekskill City,Parking Garages and Lots,1.96,Peekskill,suffix-stripped
+Peekskill City,Utilities,1.73,Peekskill,suffix-stripped
+Peekskill City,Indoor Sports Facilities,0.93,Peekskill,suffix-stripped
+Peekskill City,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,0.81,Peekskill,suffix-stripped
+Peekskill City,Cemeteries,0.75,Peekskill,suffix-stripped
+Peekskill City,Communication,0.67,Peekskill,suffix-stripped
+Peekskill City,"Horse, Livestock Farm",0.44,Peekskill,suffix-stripped
+Peekskill City,Colleges and Universities,0.43,Peekskill,suffix-stripped
+Pelham Town,Single Family Residential,689.72,Pelham,suffix-stripped
+Pelham Town,Transportation Right-of-Way,282.82,Pelham,suffix-stripped
+Pelham Town,State Parkway Lands,76.54,Pelham,suffix-stripped
+Pelham Town,Private Golf Courses,51.67,Pelham,suffix-stripped
+Pelham Town,Regional Shopping Centers,41.48,Pelham,suffix-stripped
+Pelham Town,"City/Town/Village Public Parks, Conservation, Forest Lands",39.67,Pelham,suffix-stripped
+Pelham Town,Two Family Residential,33.51,Pelham,suffix-stripped
+Pelham Town,Schools,29.11,Pelham,suffix-stripped
+Pelham Town,Transportation Facilities,26.04,Pelham,suffix-stripped
+Pelham Town,Interior Water Bodies,21.75,Pelham,suffix-stripped
+Pelham Town,Multi-Family Residential,15.03,Pelham,suffix-stripped
+Pelham Town,Religious,15.00,Pelham,suffix-stripped
+Pelham Town,Private Recreation-Other,14.48,Pelham,suffix-stripped
+Pelham Town,Office Building,11.32,Pelham,suffix-stripped
+Pelham Town,Vacant Land,11.00,Pelham,suffix-stripped
+Pelham Town,Commercial and Retail,9.38,Pelham,suffix-stripped
+Pelham Town,"Manufacturing, Industrial, Mining and Quarrying",8.78,Pelham,suffix-stripped
+Pelham Town,Parking Garages and Lots,5.71,Pelham,suffix-stripped
+Pelham Town,Mixed Use-Downtown Row Type,5.70,Pelham,suffix-stripped
+Pelham Town,"Motor Vehicles, Sales and Service",5.68,Pelham,suffix-stripped
+Pelham Town,"Storage, Warehouse and Distribution Facilities",5.33,Pelham,suffix-stripped
+Pelham Town,Three Family Residential,3.30,Pelham,suffix-stripped
+Pelham Town,Vacant Land with Improvements,2.10,Pelham,suffix-stripped
+Pelham Town,Common Land Homeowners Assoc.,1.88,Pelham,suffix-stripped
+Pelham Town,"Government Buildings, Facilities",1.75,Pelham,suffix-stripped
+Pelham Town,Mixed Use,1.42,Pelham,suffix-stripped
+Pelham Town,Restaurants,1.25,Pelham,suffix-stripped
+Pelham Town,Utilities,1.21,Pelham,suffix-stripped
+Pelham Town,"County Owned Public Parks, Conservation, Forest Lands",1.12,Pelham,suffix-stripped
+Pelham Town,Indoor Sports Facilities,1.03,Pelham,suffix-stripped
+Pelham Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,0.96,Pelham,suffix-stripped
+Pelham Town,Cultural Facilities,0.91,Pelham,suffix-stripped
+Pelham Town,Social and Health Services,0.87,Pelham,suffix-stripped
+Pelham Town,Libraries,0.86,Pelham,suffix-stripped
+Pelham Town,Recreation and Entertainment-Other,0.36,Pelham,suffix-stripped
+Pelham Town,Public Safety Facilities,0.23,Pelham,suffix-stripped
+Pound Ridge Town,Single Family Residential,6972.26,Pound Ridge,suffix-stripped
+Pound Ridge Town,"County Owned Public Parks, Conservation, Forest Lands",2824.12,Pound Ridge,suffix-stripped
+Pound Ridge Town,Vacant Land,1441.49,Pound Ridge,suffix-stripped
+Pound Ridge Town,Water Supply Lands,1340.20,Pound Ridge,suffix-stripped
+Pound Ridge Town,Nature Preserves and Other Unspecified Protected Lands,592.12,Pound Ridge,suffix-stripped
+Pound Ridge Town,Transportation Right-of-Way,476.30,Pound Ridge,suffix-stripped
+Pound Ridge Town,Private Golf Courses,289.85,Pound Ridge,suffix-stripped
+Pound Ridge Town,"City/Town/Village Public Parks, Conservation, Forest Lands",227.79,Pound Ridge,suffix-stripped
+Pound Ridge Town,Interior Water Bodies,164.14,Pound Ridge,suffix-stripped
+Pound Ridge Town,Vacant Land with Improvements,77.09,Pound Ridge,suffix-stripped
+Pound Ridge Town,Common Land Homeowners Assoc.,74.23,Pound Ridge,suffix-stripped
+Pound Ridge Town,"Horse, Livestock Farm",52.74,Pound Ridge,suffix-stripped
+Pound Ridge Town,Nurseries and Greenhouses - Agriculture,41.33,Pound Ridge,suffix-stripped
+Pound Ridge Town,Religious,39.44,Pound Ridge,suffix-stripped
+Pound Ridge Town,Commercial and Retail,34.14,Pound Ridge,suffix-stripped
+Pound Ridge Town,Mixed Use,18.15,Pound Ridge,suffix-stripped
+Pound Ridge Town,Estate and Rural Residential,17.11,Pound Ridge,suffix-stripped
+Pound Ridge Town,Schools,15.99,Pound Ridge,suffix-stripped
+Pound Ridge Town,"Government Buildings, Facilities",15.40,Pound Ridge,suffix-stripped
+Pound Ridge Town,"Storage, Warehouse and Distribution Facilities",12.51,Pound Ridge,suffix-stripped
+Pound Ridge Town,Private Recreation-Other,12.31,Pound Ridge,suffix-stripped
+Pound Ridge Town,Utilities,6.58,Pound Ridge,suffix-stripped
+Pound Ridge Town,Public Safety Facilities,5.47,Pound Ridge,suffix-stripped
+Pound Ridge Town,Communication,4.82,Pound Ridge,suffix-stripped
+Pound Ridge Town,Cemeteries,4.51,Pound Ridge,suffix-stripped
+Pound Ridge Town,"Motor Vehicles, Sales and Service",3.49,Pound Ridge,suffix-stripped
+Pound Ridge Town,Libraries,3.48,Pound Ridge,suffix-stripped
+Pound Ridge Town,Restaurants,2.38,Pound Ridge,suffix-stripped
+Pound Ridge Town,Office Building,0.74,Pound Ridge,suffix-stripped
+Pound Ridge Town,Social and Health Services,0.67,Pound Ridge,suffix-stripped
+Pound Ridge Town,Parking Garages and Lots,0.33,Pound Ridge,suffix-stripped
+Rye City,Single Family Residential,1727.25,Rye City,exact
+Rye City,Transportation Right-of-Way,506.49,Rye City,exact
+Rye City,"County Owned Public Parks, Conservation, Forest Lands",494.29,Rye City,exact
+Rye City,Vacant Land,145.65,Rye City,exact
+Rye City,Multi-Family Residential,138.75,Rye City,exact
+Rye City,Public Golf Courses,128.73,Rye City,exact
+Rye City,Schools,119.59,Rye City,exact
+Rye City,Private Beaches,118.16,Rye City,exact
+Rye City,"City/Town/Village Public Parks, Conservation, Forest Lands",102.55,Rye City,exact
+Rye City,Office Building,81.52,Rye City,exact
+Rye City,Private  Marinas,62.59,Rye City,exact
+Rye City,Private Golf Courses,54.92,Rye City,exact
+Rye City,"Government Buildings, Facilities",54.14,Rye City,exact
+Rye City,Cemeteries,52.90,Rye City,exact
+Rye City,Transportation Facilities,45.88,Rye City,exact
+Rye City,Nature Preserves and Other Unspecified Protected Lands,31.02,Rye City,exact
+Rye City,Two Family Residential,29.74,Rye City,exact
+Rye City,Religious,21.42,Rye City,exact
+Rye City,Estate and Rural Residential,21.10,Rye City,exact
+Rye City,Common Land Homeowners Assoc.,17.77,Rye City,exact
+Rye City,Utilities,9.37,Rye City,exact
+Rye City,Mixed Use,9.33,Rye City,exact
+Rye City,Three Family Residential,8.56,Rye City,exact
+Rye City,Cultural Facilities,8.06,Rye City,exact
+Rye City,Commercial and Retail,7.97,Rye City,exact
+Rye City,"Motor Vehicles, Sales and Service",7.14,Rye City,exact
+Rye City,Vacant Land with Improvements,6.92,Rye City,exact
+Rye City,"Storage, Warehouse and Distribution Facilities",6.12,Rye City,exact
+Rye City,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,5.92,Rye City,exact
+Rye City,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",4.92,Rye City,exact
+Rye City,Social and Health Services,4.67,Rye City,exact
+Rye City,Mixed Use-Downtown Row Type,4.54,Rye City,exact
+Rye City,"Waste Disposal, Treatment Plants, Landfills",3.51,Rye City,exact
+Rye City,Hospitals,2.96,Rye City,exact
+Rye City,Public Safety Facilities,2.02,Rye City,exact
+Rye City,Restaurants,1.49,Rye City,exact
+Rye City,Parking Garages and Lots,1.29,Rye City,exact
+Rye City,Condominium,0.85,Rye City,exact
+Rye City,"Manufacturing, Industrial, Mining and Quarrying",0.58,Rye City,exact
+Rye City,Communication,0.35,Rye City,exact
+Rye City,Libraries,0.30,Rye City,exact
+Rye City,Agriculture Other,0.08,Rye City,exact
+Rye City,Interior Water Bodies,0.04,Rye City,exact
+Scarsdale Town,Single Family Residential,2371.74,Scarsdale,suffix-stripped
+Scarsdale Town,Transportation Right-of-Way,561.72,Scarsdale,suffix-stripped
+Scarsdale Town,"County Owned Public Parks, Conservation, Forest Lands",524.70,Scarsdale,suffix-stripped
+Scarsdale Town,Private Golf Courses,254.93,Scarsdale,suffix-stripped
+Scarsdale Town,Schools,140.43,Scarsdale,suffix-stripped
+Scarsdale Town,"City/Town/Village Public Parks, Conservation, Forest Lands",110.60,Scarsdale,suffix-stripped
+Scarsdale Town,State Parkway Lands,79.47,Scarsdale,suffix-stripped
+Scarsdale Town,Vacant Land,74.73,Scarsdale,suffix-stripped
+Scarsdale Town,Religious,44.84,Scarsdale,suffix-stripped
+Scarsdale Town,Nature Preserves and Other Unspecified Protected Lands,30.95,Scarsdale,suffix-stripped
+Scarsdale Town,"Government Buildings, Facilities",16.10,Scarsdale,suffix-stripped
+Scarsdale Town,Libraries,9.75,Scarsdale,suffix-stripped
+Scarsdale Town,"Waste Disposal, Treatment Plants, Landfills",7.96,Scarsdale,suffix-stripped
+Scarsdale Town,Transportation Facilities,7.77,Scarsdale,suffix-stripped
+Scarsdale Town,Commercial and Retail,6.66,Scarsdale,suffix-stripped
+Scarsdale Town,Multi-Family Residential,6.08,Scarsdale,suffix-stripped
+Scarsdale Town,Mixed Use,4.11,Scarsdale,suffix-stripped
+Scarsdale Town,Cultural Facilities,3.72,Scarsdale,suffix-stripped
+Scarsdale Town,Vacant Land with Improvements,3.59,Scarsdale,suffix-stripped
+Scarsdale Town,"Horse, Livestock Farm",2.95,Scarsdale,suffix-stripped
+Scarsdale Town,Office Building,2.17,Scarsdale,suffix-stripped
+Scarsdale Town,Social and Health Services,2.05,Scarsdale,suffix-stripped
+Scarsdale Town,Public Safety Facilities,1.98,Scarsdale,suffix-stripped
+Scarsdale Town,"Motor Vehicles, Sales and Service",1.89,Scarsdale,suffix-stripped
+Scarsdale Town,Utilities,1.52,Scarsdale,suffix-stripped
+Scarsdale Town,Retail Nurseries and Greenhouses,1.49,Scarsdale,suffix-stripped
+Scarsdale Town,Parking Garages and Lots,1.45,Scarsdale,suffix-stripped
+Scarsdale Town,Mixed Use-Downtown Row Type,1.36,Scarsdale,suffix-stripped
+Scarsdale Town,Communication,0.65,Scarsdale,suffix-stripped
+Scarsdale Town,Water Supply Lands,0.51,Scarsdale,suffix-stripped
+Scarsdale Town,Cemeteries,0.44,Scarsdale,suffix-stripped
+Scarsdale Town,Private Recreation-Other,0.37,Scarsdale,suffix-stripped
+Scarsdale Town,Restaurants,0.33,Scarsdale,suffix-stripped
+Somers Town,Single Family Residential,6880.87,Somers,suffix-stripped
+Somers Town,Water Supply Lands,3497.90,Somers,suffix-stripped
+Somers Town,Vacant Land,1556.47,Somers,suffix-stripped
+Somers Town,"County Owned Public Parks, Conservation, Forest Lands",1429.32,Somers,suffix-stripped
+Somers Town,Transportation Right-of-Way,1075.40,Somers,suffix-stripped
+Somers Town,Office Building,967.90,Somers,suffix-stripped
+Somers Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,861.06,Somers,suffix-stripped
+Somers Town,"Horse, Livestock Farm",680.57,Somers,suffix-stripped
+Somers Town,Common Land Homeowners Assoc.,589.23,Somers,suffix-stripped
+Somers Town,Private Golf Courses,456.71,Somers,suffix-stripped
+Somers Town,Social and Health Services,446.98,Somers,suffix-stripped
+Somers Town,Schools,399.12,Somers,suffix-stripped
+Somers Town,Estate and Rural Residential,365.00,Somers,suffix-stripped
+Somers Town,"City/Town/Village Public Parks, Conservation, Forest Lands",336.08,Somers,suffix-stripped
+Somers Town,"Crops, Orchards, Vineyards",203.40,Somers,suffix-stripped
+Somers Town,Commercial and Retail,108.08,Somers,suffix-stripped
+Somers Town,"Storage, Warehouse and Distribution Facilities",94.42,Somers,suffix-stripped
+Somers Town,Two Family Residential,77.80,Somers,suffix-stripped
+Somers Town,Multi-Family Residential,75.91,Somers,suffix-stripped
+Somers Town,Agriculture Other,74.70,Somers,suffix-stripped
+Somers Town,Nature Preserves and Other Unspecified Protected Lands,66.11,Somers,suffix-stripped
+Somers Town,Nurseries and Greenhouses - Agriculture,43.17,Somers,suffix-stripped
+Somers Town,Religious,39.75,Somers,suffix-stripped
+Somers Town,Private Beaches,34.64,Somers,suffix-stripped
+Somers Town,Utilities,32.93,Somers,suffix-stripped
+Somers Town,Regional Shopping Centers,28.51,Somers,suffix-stripped
+Somers Town,"Waste Disposal, Treatment Plants, Landfills",26.90,Somers,suffix-stripped
+Somers Town,"Government Buildings, Facilities",20.42,Somers,suffix-stripped
+Somers Town,"Private Campgrounds, Cottages, Bungalows",19.77,Somers,suffix-stripped
+Somers Town,Vacant Land with Improvements,17.36,Somers,suffix-stripped
+Somers Town,Cemeteries,14.52,Somers,suffix-stripped
+Somers Town,Three Family Residential,14.02,Somers,suffix-stripped
+Somers Town,Private Recreation-Other,10.39,Somers,suffix-stripped
+Somers Town,Public Safety Facilities,10.18,Somers,suffix-stripped
+Somers Town,Restaurants,8.77,Somers,suffix-stripped
+Somers Town,Interior Water Bodies,6.22,Somers,suffix-stripped
+Somers Town,Mixed Use,3.78,Somers,suffix-stripped
+Somers Town,Recreation and Entertainment-Other,2.43,Somers,suffix-stripped
+Somers Town,"Motor Vehicles, Sales and Service",2.36,Somers,suffix-stripped
+Somers Town,"State Owned Public Parks, Conservation, Forest Lands",1.67,Somers,suffix-stripped
+Somers Town,Flood Control,1.47,Somers,suffix-stripped
+Somers Town,Cultural Facilities,1.17,Somers,suffix-stripped
+White Plains City,Single Family Residential,1826.58,White Plains,suffix-stripped
+White Plains City,Transportation Right-of-Way,980.08,White Plains,suffix-stripped
+White Plains City,Water Supply Lands,459.09,White Plains,suffix-stripped
+White Plains City,"County Owned Public Parks, Conservation, Forest Lands",337.95,White Plains,suffix-stripped
+White Plains City,Office Building,307.21,White Plains,suffix-stripped
+White Plains City,Private Golf Courses,270.85,White Plains,suffix-stripped
+White Plains City,Multi-Family Residential,226.21,White Plains,suffix-stripped
+White Plains City,Hospitals,219.70,White Plains,suffix-stripped
+White Plains City,Schools,211.78,White Plains,suffix-stripped
+White Plains City,"City/Town/Village Public Parks, Conservation, Forest Lands",193.47,White Plains,suffix-stripped
+White Plains City,Transportation Facilities,169.44,White Plains,suffix-stripped
+White Plains City,Two Family Residential,147.22,White Plains,suffix-stripped
+White Plains City,Religious,134.27,White Plains,suffix-stripped
+White Plains City,Vacant Land,88.65,White Plains,suffix-stripped
+White Plains City,Social and Health Services,87.34,White Plains,suffix-stripped
+White Plains City,Commercial and Retail,87.15,White Plains,suffix-stripped
+White Plains City,State Parkway Lands,84.44,White Plains,suffix-stripped
+White Plains City,"Government Buildings, Facilities",75.72,White Plains,suffix-stripped
+White Plains City,Nature Preserves and Other Unspecified Protected Lands,48.21,White Plains,suffix-stripped
+White Plains City,Condominium,41.90,White Plains,suffix-stripped
+White Plains City,Parking Garages and Lots,41.53,White Plains,suffix-stripped
+White Plains City,Common Land Homeowners Assoc.,38.17,White Plains,suffix-stripped
+White Plains City,Cemeteries,27.61,White Plains,suffix-stripped
+White Plains City,Three Family Residential,26.08,White Plains,suffix-stripped
+White Plains City,"Motor Vehicles, Sales and Service",23.35,White Plains,suffix-stripped
+White Plains City,Mixed Use-Downtown Row Type,22.11,White Plains,suffix-stripped
+White Plains City,"Storage, Warehouse and Distribution Facilities",19.68,White Plains,suffix-stripped
+White Plains City,Retail Nurseries and Greenhouses,17.40,White Plains,suffix-stripped
+White Plains City,Mixed Use,15.52,White Plains,suffix-stripped
+White Plains City,Colleges and Universities,14.92,White Plains,suffix-stripped
+White Plains City,Estate and Rural Residential,11.13,White Plains,suffix-stripped
+White Plains City,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,10.52,White Plains,suffix-stripped
+White Plains City,Cultural Facilities,10.16,White Plains,suffix-stripped
+White Plains City,Regional Shopping Centers,8.07,White Plains,suffix-stripped
+White Plains City,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",7.71,White Plains,suffix-stripped
+White Plains City,Nurseries and Greenhouses - Agriculture,5.92,White Plains,suffix-stripped
+White Plains City,Public Safety Facilities,5.43,White Plains,suffix-stripped
+White Plains City,Restaurants,3.57,White Plains,suffix-stripped
+White Plains City,Vacant Land with Improvements,2.44,White Plains,suffix-stripped
+White Plains City,Libraries,2.29,White Plains,suffix-stripped
+White Plains City,"Manufacturing, Industrial, Mining and Quarrying",2.28,White Plains,suffix-stripped
+White Plains City,Utilities,2.23,White Plains,suffix-stripped
+White Plains City,Communication,2.14,White Plains,suffix-stripped
+White Plains City,Private Recreation-Other,1.88,White Plains,suffix-stripped
+White Plains City,Interior Water Bodies,1.34,White Plains,suffix-stripped
+White Plains City,Indoor Sports Facilities,0.76,White Plains,suffix-stripped
+Yonkers City,Single Family Residential,2884.87,Yonkers,suffix-stripped
+Yonkers City,Transportation Right-of-Way,2261.63,Yonkers,suffix-stripped
+Yonkers City,"County Owned Public Parks, Conservation, Forest Lands",984.15,Yonkers,suffix-stripped
+Yonkers City,Multi-Family Residential,741.40,Yonkers,suffix-stripped
+Yonkers City,Two Family Residential,653.61,Yonkers,suffix-stripped
+Yonkers City,Vacant Land,595.55,Yonkers,suffix-stripped
+Yonkers City,State Parkway Lands,498.88,Yonkers,suffix-stripped
+Yonkers City,"City/Town/Village Public Parks, Conservation, Forest Lands",380.42,Yonkers,suffix-stripped
+Yonkers City,Water Supply Lands,316.45,Yonkers,suffix-stripped
+Yonkers City,"Manufacturing, Industrial, Mining and Quarrying",286.08,Yonkers,suffix-stripped
+Yonkers City,Schools,274.58,Yonkers,suffix-stripped
+Yonkers City,Utilities,247.94,Yonkers,suffix-stripped
+Yonkers City,Commercial and Retail,193.03,Yonkers,suffix-stripped
+Yonkers City,Social and Health Services,175.79,Yonkers,suffix-stripped
+Yonkers City,Three Family Residential,168.71,Yonkers,suffix-stripped
+Yonkers City,Regional Shopping Centers,119.46,Yonkers,suffix-stripped
+Yonkers City,Cemeteries,103.49,Yonkers,suffix-stripped
+Yonkers City,Recreation and Entertainment-Other,100.04,Yonkers,suffix-stripped
+Yonkers City,Religious,98.03,Yonkers,suffix-stripped
+Yonkers City,Transportation Facilities,95.58,Yonkers,suffix-stripped
+Yonkers City,"Storage, Warehouse and Distribution Facilities",90.31,Yonkers,suffix-stripped
+Yonkers City,Office Building,79.10,Yonkers,suffix-stripped
+Yonkers City,"Motor Vehicles, Sales and Service",70.86,Yonkers,suffix-stripped
+Yonkers City,"State Owned Public Parks, Conservation, Forest Lands",59.12,Yonkers,suffix-stripped
+Yonkers City,Mixed Use-Downtown Row Type,53.86,Yonkers,suffix-stripped
+Yonkers City,Colleges and Universities,39.59,Yonkers,suffix-stripped
+Yonkers City,Private Recreation-Other,35.80,Yonkers,suffix-stripped
+Yonkers City,Mixed Use,33.97,Yonkers,suffix-stripped
+Yonkers City,"Government Buildings, Facilities",31.74,Yonkers,suffix-stripped
+Yonkers City,"Waste Disposal, Treatment Plants, Landfills",30.55,Yonkers,suffix-stripped
+Yonkers City,Vacant Land with Improvements,25.26,Yonkers,suffix-stripped
+Yonkers City,Restaurants,24.88,Yonkers,suffix-stripped
+Yonkers City,Parking Garages and Lots,23.04,Yonkers,suffix-stripped
+Yonkers City,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",16.00,Yonkers,suffix-stripped
+Yonkers City,Common Land Homeowners Assoc.,14.45,Yonkers,suffix-stripped
+Yonkers City,Indoor Sports Facilities,14.21,Yonkers,suffix-stripped
+Yonkers City,Hospitals,12.54,Yonkers,suffix-stripped
+Yonkers City,Condominium,10.61,Yonkers,suffix-stripped
+Yonkers City,Public Safety Facilities,10.04,Yonkers,suffix-stripped
+Yonkers City,Cultural Facilities,7.91,Yonkers,suffix-stripped
+Yonkers City,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,6.34,Yonkers,suffix-stripped
+Yonkers City,Libraries,6.27,Yonkers,suffix-stripped
+Yonkers City,Private  Marinas,3.86,Yonkers,suffix-stripped
+Yonkers City,Military Installations,2.32,Yonkers,suffix-stripped
+Yonkers City,Retail Nurseries and Greenhouses,1.34,Yonkers,suffix-stripped
+Yonkers City,Communication,0.52,Yonkers,suffix-stripped
+Yorktown Town,Single Family Residential,7604.49,Yorktown,suffix-stripped
+Yorktown Town,Water Supply Lands,2691.74,Yorktown,suffix-stripped
+Yorktown Town,Vacant Land,2316.27,Yorktown,suffix-stripped
+Yorktown Town,"City/Town/Village Public Parks, Conservation, Forest Lands",1661.69,Yorktown,suffix-stripped
+Yorktown Town,Transportation Right-of-Way,1447.16,Yorktown,suffix-stripped
+Yorktown Town,"County Owned Public Parks, Conservation, Forest Lands",1417.28,Yorktown,suffix-stripped
+Yorktown Town,"State Owned Public Parks, Conservation, Forest Lands",1328.83,Yorktown,suffix-stripped
+Yorktown Town,Estate and Rural Residential,938.11,Yorktown,suffix-stripped
+Yorktown Town,State Parkway Lands,860.64,Yorktown,suffix-stripped
+Yorktown Town,Multi-Family Residential,566.73,Yorktown,suffix-stripped
+Yorktown Town,Nature Preserves and Other Unspecified Protected Lands,549.78,Yorktown,suffix-stripped
+Yorktown Town,Schools,522.29,Yorktown,suffix-stripped
+Yorktown Town,Utilities,482.72,Yorktown,suffix-stripped
+Yorktown Town,Religious,339.14,Yorktown,suffix-stripped
+Yorktown Town,Office Building,295.84,Yorktown,suffix-stripped
+Yorktown Town,"Crops, Orchards, Vineyards",228.07,Yorktown,suffix-stripped
+Yorktown Town,Common Land Homeowners Assoc.,186.40,Yorktown,suffix-stripped
+Yorktown Town,Private Golf Courses,183.41,Yorktown,suffix-stripped
+Yorktown Town,"Horse, Livestock Farm",175.72,Yorktown,suffix-stripped
+Yorktown Town,Commercial and Retail,164.25,Yorktown,suffix-stripped
+Yorktown Town,"Private Campgrounds, Cottages, Bungalows",150.69,Yorktown,suffix-stripped
+Yorktown Town,Interior Water Bodies,143.14,Yorktown,suffix-stripped
+Yorktown Town,Regional Shopping Centers,116.14,Yorktown,suffix-stripped
+Yorktown Town,Single Family Residential w/Accesory Apartment,103.97,Yorktown,suffix-stripped
+Yorktown Town,Vacant Land with Improvements,98.46,Yorktown,suffix-stripped
+Yorktown Town,Private Recreation-Other,60.34,Yorktown,suffix-stripped
+Yorktown Town,"Waste Disposal, Treatment Plants, Landfills",54.41,Yorktown,suffix-stripped
+Yorktown Town,"Storage, Warehouse and Distribution Facilities",52.52,Yorktown,suffix-stripped
+Yorktown Town,Condominium,50.45,Yorktown,suffix-stripped
+Yorktown Town,Two Family Residential,47.27,Yorktown,suffix-stripped
+Yorktown Town,"Motor Vehicles, Sales and Service",45.36,Yorktown,suffix-stripped
+Yorktown Town,Private Beaches,35.53,Yorktown,suffix-stripped
+Yorktown Town,Mixed Use,28.68,Yorktown,suffix-stripped
+Yorktown Town,Public Safety Facilities,25.77,Yorktown,suffix-stripped
+Yorktown Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,24.19,Yorktown,suffix-stripped
+Yorktown Town,Restaurants,21.99,Yorktown,suffix-stripped
+Yorktown Town,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",21.06,Yorktown,suffix-stripped
+Yorktown Town,Social and Health Services,20.78,Yorktown,suffix-stripped
+Yorktown Town,Recreation and Entertainment-Other,18.45,Yorktown,suffix-stripped
+Yorktown Town,Indoor Sports Facilities,13.18,Yorktown,suffix-stripped
+Yorktown Town,Cemeteries,12.85,Yorktown,suffix-stripped
+Yorktown Town,Public Golf Courses,12.13,Yorktown,suffix-stripped
+Yorktown Town,Three Family Residential,10.64,Yorktown,suffix-stripped
+Yorktown Town,Nurseries and Greenhouses - Agriculture,10.45,Yorktown,suffix-stripped
+Yorktown Town,Mixed Use-Downtown Row Type,10.33,Yorktown,suffix-stripped
+Yorktown Town,Retail Nurseries and Greenhouses,9.84,Yorktown,suffix-stripped
+Yorktown Town,"Manufacturing, Industrial, Mining and Quarrying",9.11,Yorktown,suffix-stripped
+Yorktown Town,"Government Buildings, Facilities",6.38,Yorktown,suffix-stripped
+Yorktown Town,Libraries,6.08,Yorktown,suffix-stripped
+Yorktown Town,Communication,2.20,Yorktown,suffix-stripped
+Yorktown Town,Parking Garages and Lots,0.67,Yorktown,suffix-stripped
+Yorktown Town,Flood Control,0.50,Yorktown,suffix-stripped
+Yorktown Town,Private  Marinas,0.27,Yorktown,suffix-stripped
+Yorktown Town,Transportation Facilities,0.14,Yorktown,suffix-stripped
+Yorktown Town,Cultural Facilities,0.12,Yorktown,suffix-stripped
+Rye Town,Single Family Residential,1553.29,,unmatched
+,Transportation Right-of-Way,1143.22,,unmatched
+Rye Town,Transportation Right-of-Way,731.00,,unmatched
+Rye Town,Two Family Residential,272.45,,unmatched
+Rye Town,Transportation Facilities,251.70,,unmatched
+Rye Town,Private Golf Courses,229.33,,unmatched
+Rye Town,"City/Town/Village Public Parks, Conservation, Forest Lands",143.86,,unmatched
+Rye Town,Common Land Homeowners Assoc.,134.58,,unmatched
+Rye Town,Vacant Land,130.63,,unmatched
+Rye Town,Schools,130.38,,unmatched
+Rye Town,Office Building,129.20,,unmatched
+Rye Town,Multi-Family Residential,98.50,,unmatched
+Rye Town,State Parkway Lands,74.32,,unmatched
+Rye Town,Commercial and Retail,72.12,,unmatched
+Rye Town,"Hotel, Motels, Inns, Lodges, Boarding Houses, Fraternity and Sorori",68.34,,unmatched
+Rye Town,"Storage, Warehouse and Distribution Facilities",63.28,,unmatched
+Rye Town,Nature Preserves and Other Unspecified Protected Lands,49.36,,unmatched
+Rye Town,Regional Shopping Centers,47.61,,unmatched
+Rye Town,"Government Buildings, Facilities",36.42,,unmatched
+Rye Town,Three Family Residential,35.32,,unmatched
+Rye Town,Religious,32.86,,unmatched
+,Single Family Residential,27.70,,unmatched
+Rye Town,Mixed Use-Downtown Row Type,25.69,,unmatched
+Rye Town,"Motor Vehicles, Sales and Service",19.31,,unmatched
+Rye Town,Cemeteries,19.29,,unmatched
+Rye Town,Social and Health Services,18.53,,unmatched
+Rye Town,Mixed Use,14.86,,unmatched
+,Vacant Land,12.92,,unmatched
+Rye Town,"Waste Disposal, Treatment Plants, Landfills",12.23,,unmatched
+Rye Town,Hospitals,12.07,,unmatched
+Rye Town,Private  Marinas,11.20,,unmatched
+,Multi-Family Residential,8.21,,unmatched
+Rye Town,Restaurants,7.57,,unmatched
+Rye Town,Parking Garages and Lots,7.34,,unmatched
+Rye Town,Condominium,6.90,,unmatched
+Rye Town,Residential - Multi-Purpose/Multi-Structure/Multi-Residence,5.36,,unmatched
+Rye Town,Recreation and Entertainment-Other,5.33,,unmatched
+Rye Town,Communication,4.46,,unmatched
+,Condominium,3.55,,unmatched
+Rye Town,Estate and Rural Residential,3.50,,unmatched
+,Private  Marinas,3.06,,unmatched
+Rye Town,Public Safety Facilities,2.69,,unmatched
+Rye Town,"Manufacturing, Industrial, Mining and Quarrying",2.44,,unmatched
+Rye Town,Vacant Land with Improvements,2.38,,unmatched
+,Three Family Residential,2.29,,unmatched
+Rye Town,Utilities,1.98,,unmatched
+Rye Town,Cultural Facilities,1.62,,unmatched
+,Cultural Facilities,1.60,,unmatched
+,Private Recreation-Other,1.51,,unmatched
+,Two Family Residential,1.40,,unmatched
+Rye Town,Water Supply Lands,1.38,,unmatched
+Rye Town,Indoor Sports Facilities,1.36,,unmatched
+Rye Town,Libraries,1.23,,unmatched
+Rye Town,Retail Nurseries and Greenhouses,0.96,,unmatched
+,Parking Garages and Lots,0.64,,unmatched
+,Utilities,0.32,,unmatched
+,Office Building,0.18,,unmatched
+Rye Town,Interior Water Bodies,0.18,,unmatched
+,Commercial and Retail,0.16,,unmatched
+,Religious,0.07,,unmatched

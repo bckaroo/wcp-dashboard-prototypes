@@ -1,0 +1,605 @@
+municipality,zoning_district,districts,acres
+Ardsley,One-Family Residential,11,754.75
+Ardsley,General Business,1,24.66
+Ardsley,Conservation or Clustered Housing,2,21.13
+Ardsley,Special Business,3,12.96
+Ardsley,Shopping Center Business,1,10.09
+Ardsley,Multi-Family Residential,1,5.68
+Ardsley,Residence Office,1,1.50
+Bedford,Residence Four-Acre,4,20075.64
+Bedford,Residence Two-Acre,9,2121.32
+Bedford,Residence One-Acre,12,1429.55
+Bedford,Residence One-Half-Acre,11,774.74
+Bedford,Residence One-Quarter-Acre,7,412.45
+Bedford,Light Industrial,3,185.69
+Bedford,Residence Two-Family,2,140.62
+Bedford,Central Business,6,107.74
+Bedford,Residence Village Apartment,9,96.74
+Bedford,Planned Office,2,13.47
+Bedford,Housing for the Elderly,1,12.78
+Bedford,Planned Business - Retail,1,12.58
+Bedford,Neighborhood Business,2,10.65
+Bedford,Diversified Housing,1,6.35
+Bedford,Planned Business - Office (Katonah),2,4.51
+Briarcliff Manor,Single-Family Residence,20,3515.52
+Briarcliff Manor,Complementary Use Transition 1,1,74.32
+Briarcliff Manor,Downtown Mixed-Use 2,1,37.25
+Briarcliff Manor,Multifamily Residence,4,30.29
+Briarcliff Manor,Downtown Mixed-Use 1,1,16.99
+Briarcliff Manor,Complementary Use Transition 3,1,16.77
+Briarcliff Manor,Retail Business and Residential,1,11.92
+Briarcliff Manor,Complementary Use Transition 2,1,11.30
+Briarcliff Manor,Complementary Use Transition 4,1,10.71
+Briarcliff Manor,Complementary Use Transition 5,1,10.69
+Briarcliff Manor,"General Business, Light Industry",2,10.39
+Briarcliff Manor,Retail Business,1,9.87
+Briarcliff Manor,Eldercare Community Residence Distrcit,1,5.43
+Briarcliff Manor,Retail Business and Residence,1,1.23
+Bronxville,One-Family Residence A,3,271.80
+Bronxville,One-Family Residence AA,3,203.24
+Bronxville,Two-Story Multiple Residence B,4,38.79
+Bronxville,One-Family Residence AAA,1,32.39
+Bronxville,Central Business A,1,28.72
+Bronxville,Three-Story Multiple Residence,3,25.77
+Bronxville,Six-Story Multiple Residence D,3,15.12
+Bronxville,Service Business B,2,6.55
+Buchanan,Residential,8,392.42
+Buchanan,Planned Industrial,1,365.26
+Buchanan,Light Industrial,1,132.10
+Buchanan,General Commercial,2,27.78
+Buchanan,Neighborhood Commercial,1,14.83
+Buchanan,Neighborhood / General Commercial Overlay,1,4.85
+Cortlandt,Single-Family Residential,64,13487.52
+Cortlandt,"Parks, Recreation, and Open Space",29,4862.86
+Cortlandt,"Conservation, Recreation and Open Space",16,1706.45
+Cortlandt,Single-Family and Two-Family Residential,1,310.96
+Cortlandt,Designed Commercial,4,257.78
+Cortlandt,Designed Industrial,3,232.89
+Cortlandt,Highway Commercial,8,227.92
+Cortlandt,One-Family Residential,1,211.94
+Cortlandt,Highway Commercial/Multi-Family,1,171.90
+Cortlandt,Camp Smith Reuse B,1,169.17
+Cortlandt,Community Commercial,18,166.90
+Cortlandt,General Residential,4,165.44
+Cortlandt,Light Industrial,4,142.82
+Cortlandt,Planned Village Development,1,33.67
+Croton-on-Hudson,One-Family Residence,19,2272.31
+Croton-on-Hudson,Light Industrial,2,192.48
+Croton-on-Hudson,"Park, Recreation, and Education",6,168.36
+Croton-on-Hudson,Waterfront Commercial,1,117.93
+Croton-on-Hudson,Unzoned US 9 Corridor,1,117.88
+Croton-on-Hudson,Two-Family Residence,4,84.05
+Croton-on-Hudson,General Commercial,2,60.59
+Croton-on-Hudson,Multiple Residence,4,31.58
+Croton-on-Hudson,Limited Office,6,18.36
+Croton-on-Hudson,Unzoned,1,15.64
+Croton-on-Hudson,Central Commercial,2,11.23
+Croton-on-Hudson,Riverside Transition,2,3.37
+Croton-on-Hudson,Riverside Commercial,1,1.95
+Dobbs Ferry,One-Family Residence,28,676.46
+Dobbs Ferry,Chauncey Park,1,296.59
+Dobbs Ferry,Open Space,5,182.48
+Dobbs Ferry,Educational/Institutional,7,131.61
+Dobbs Ferry,Mixed Density Residential 1,8,71.42
+Dobbs Ferry,Waterfront A,1,68.80
+Dobbs Ferry,Multi-Family 1,3,30.05
+Dobbs Ferry,Multi-Family 2,2,20.35
+Dobbs Ferry,Broadway,3,19.76
+Dobbs Ferry,Downtown Transition,4,16.56
+Dobbs Ferry,Downtown Business,2,14.76
+Dobbs Ferry,Multi-Family 4,1,14.73
+Dobbs Ferry,Downtown Gateway,1,11.26
+Dobbs Ferry,Mixed Density Residential 2,1,9.85
+Dobbs Ferry,Waterfront B,1,9.33
+Dobbs Ferry,Mixed Density Residential - Historic,1,5.48
+Dobbs Ferry,Multi-Family 3,1,3.29
+Eastchester,One Family Residence,29,1865.81
+Eastchester,Retail Business,5,92.59
+Eastchester,Multi-Family Residence,9,79.78
+Eastchester,Two Family Cluster Residence,5,35.00
+Eastchester,Designed Shopping Center,1,28.68
+Eastchester,General Business,5,27.80
+Eastchester,Park,9,19.36
+Eastchester,Open Retail Business,1,12.74
+Eastchester,One Family Cluster Residence,1,9.41
+Eastchester,Multi Family Residence,3,7.83
+Eastchester,Unzoned,1,3.92
+Eastchester,Residential Transition,1,3.86
+Elmsford,Unzoned (Highway ROW Lands),1,180.12
+Elmsford,Residence R-2 Two Families,2,144.21
+Elmsford,Residence R-0 One Family,1,109.89
+Elmsford,Business District,7,70.36
+Elmsford,Residence R-1 One Family,4,68.90
+Elmsford,Light Industrial District,4,33.42
+Elmsford,Residential Cluster Development,1,26.62
+Elmsford,Central Business District,1,14.86
+Elmsford,Limited Office Use District,1,8.05
+Elmsford,Residence R-3 Three or More Families,1,2.71
+Greenburgh,One-Family Residence,116,8624.07
+Greenburgh,Planned Unit Development,13,624.62
+Greenburgh,Office Business,12,543.30
+Greenburgh,Nonresidential Planned Development,2,358.83
+Greenburgh,Multifamily Residence,16,326.03
+Greenburgh,Central Avenue Mixed-Use Impact,1,323.86
+Greenburgh,Urban Renewal,1,132.56
+Greenburgh,General Industrial,2,101.03
+Greenburgh,Designed Shopping,6,98.97
+Greenburgh,Multifamily,3,91.91
+Greenburgh,Intermediate Business,3,61.43
+Greenburgh,Light Industrial,5,58.27
+Greenburgh,High-Rise Multifamily Residence,4,45.40
+Greenburgh,Limited Office Business,8,34.01
+Greenburgh,Close Business,5,18.16
+Greenburgh,Scatter-Site Public Housing,5,16.37
+Greenburgh,Hartsdale Center,1,10.07
+Harrison,One-Family Residence,25,9174.12
+Harrison,Special Business,7,1376.47
+Harrison,Two-Family Residence,6,499.92
+Harrison,Professional Business,3,32.22
+Harrison,Neighborhood Business,3,17.54
+Harrison,Central Business,1,16.02
+Harrison,Multifamily Limited Retail,2,14.24
+Harrison,Garden Apartment,2,11.38
+Harrison,Multifamily Residence,1,7.09
+Harrison,General Commercial,1,2.52
+Hastings-on-Hudson,One-Family Residence,19,883.58
+Hastings-on-Hudson,View Preservation Overlay,1,315.80
+Hastings-on-Hudson,Personal Wireless Facilities Overlay District ,6,172.63
+Hastings-on-Hudson,"Public Park, Recreation and Playground",15,135.19
+Hastings-on-Hudson,Gateway Cluster Overlay District,1,93.19
+Hastings-on-Hudson,General Industry,1,75.21
+Hastings-on-Hudson,Multi-Family Residence,5,64.75
+Hastings-on-Hudson,Two Family Residence,4,36.14
+Hastings-on-Hudson,Limited Office,1,24.54
+Hastings-on-Hudson,Multimedia Production Studio Overlay,1,24.06
+Hastings-on-Hudson,Central Commercial,1,18.70
+Hastings-on-Hudson,Mixed Use Planned Development,1,8.15
+Hastings-on-Hudson,Conservation/Cluster Housing,1,6.81
+Hastings-on-Hudson,Multi-Family Residence/Office,1,6.16
+Hastings-on-Hudson,Multi-Family Residence/Commercial,1,3.25
+Hastings-on-Hudson,Limited Industry,2,3.11
+Hastings-on-Hudson,Central Office,1,2.41
+Hastings-on-Hudson,Limited Commercial,1,2.36
+Hastings-on-Hudson,Cluster Zone Overlay,1,1.62
+Irvington,One Family Residence,18,1561.86
+Irvington,Recreation,1,78.01
+Irvington,Multi-Family Residence,5,61.11
+Irvington,Railroad,1,44.91
+Irvington,Two Family Residence,3,39.42
+Irvington,Industrial,1,29.91
+Irvington,Business,1,22.26
+Larchmont,One-Family Residence,16,568.78
+Larchmont,Waterfront,2,52.61
+Larchmont,Retail Business,3,31.48
+Larchmont,Retail Center,2,30.39
+Larchmont,Multi-Family Residence,2,5.45
+Lewisboro,One-Family Residence,55,18182.56
+Lewisboro,Multi-Family Residence,3,142.71
+Lewisboro,Campus Commercial,1,113.32
+Lewisboro,Retail Business,6,95.84
+Lewisboro,Service Utility,1,61.80
+Lewisboro,General Business,3,42.19
+Lewisboro,Two-Family Residence,2,18.38
+Lewisboro,General Business District,1,2.17
+Mamaroneck Town,One-Family Residence,19,1718.95
+Mamaroneck Town,Recreation,2,426.03
+Mamaroneck Town,Business Residential,4,49.49
+Mamaroneck Town,Tower Apartment,2,24.62
+Mamaroneck Town,Service Business Residential,2,21.37
+Mamaroneck Town,Two-Family Residence,1,15.62
+Mamaroneck Town,Attached Residence,1,6.08
+Mamaroneck Town,Urban Renewal,1,5.46
+Mamaroneck Town,Garden Apartment,1,3.30
+Mamaroneck Town,Business - Mixed Use Business,1,2.66
+Mamaroneck Town,Light Industry,1,2.52
+Mamaroneck Village,One-Family Residence,37,1445.44
+Mamaroneck Village,One and Two-Family Residence,8,164.98
+Mamaroneck Village,General Commercial,6,112.43
+Mamaroneck Village,Manufacturing,1,63.62
+Mamaroneck Village,Public,1,51.04
+Mamaroneck Village,Marine Recreation,3,50.18
+Mamaroneck Village,Multiple Residence,10,49.60
+Mamaroneck Village,Central Commercial,1,43.07
+Mamaroneck Village,One to Four-Family Residence,2,26.53
+Mamaroneck Village,Central Marine - Commercial,1,10.91
+Mamaroneck Village,General Marine - Commercial,2,9.51
+Mamaroneck Village,One-Family Residence/Office,1,7.52
+Mamaroneck Village,General Commercial/Res. Multi-Family,1,5.05
+Mamaroneck Village,Parking,1,1.83
+Mamaroneck Village,Mult Res./Office/Commercial,1,1.48
+Mamaroneck Village,Multi-Residence Senior Citizen,1,0.57
+Mount Kisco,Preservation Development,6,494.22
+Mount Kisco,Conservation Development,2,253.17
+Mount Kisco,Low Density Single Family Residence,6,183.84
+Mount Kisco,Moderate Density Single Family Residence,3,153.50
+Mount Kisco,One and Two Family Residence,6,127.14
+Mount Kisco,Moderate Density Multi-Family Cluster,6,89.43
+Mount Kisco,Medium Density Single Family Residence,4,80.48
+Mount Kisco,Research and Development,1,77.92
+Mount Kisco,Limited Commercial,2,77.79
+Mount Kisco,General Commercial,1,72.52
+Mount Kisco,Medium Density Multi-Family Cluster,6,57.85
+Mount Kisco,Central Business,3,55.70
+Mount Kisco,General Retail,4,45.34
+Mount Kisco,High Density Multi-Family Residence,3,40.48
+Mount Kisco,Light Manufacturing,1,31.19
+Mount Kisco,General Office,4,28.35
+Mount Kisco,Planned Residential Development,2,26.80
+Mount Kisco,Service Commercial,1,19.34
+Mount Kisco,Cottage Office,2,18.78
+Mount Kisco,Hospital,1,16.42
+Mount Kisco,Low Intensity Office,1,10.50
+Mount Kisco,Neighborhood Commercial,2,5.93
+Mount Kisco,Recreational,1,3.41
+Mount Pleasant,One-Family Residential,26,13466.81
+Mount Pleasant,General Office Building,3,515.05
+Mount Pleasant,Research Office Building,2,299.28
+Mount Pleasant,Public Utility Office Building,2,209.33
+Mount Pleasant,Rural Business,1,144.96
+Mount Pleasant,Office Business,2,143.28
+Mount Pleasant,Hawthorne Hamlet,2,132.63
+Mount Pleasant,"Office Building, Distribution, Limited Fabrication",3,103.19
+Mount Pleasant,Corporate Office Education,1,96.53
+Mount Pleasant,Planned Shopping,3,69.31
+Mount Pleasant,Planned Light Industry,1,41.52
+Mount Pleasant,Multifamily Residential,3,35.61
+Mount Pleasant,Valhalla Hamlet,1,27.61
+Mount Pleasant,Neighborhood Retail,4,26.76
+Mount Pleasant,Office Business Transitional,4,21.39
+Mount Pleasant,Light Industry,2,19.44
+Mount Pleasant,Planned Residential Development Transitional,5,19.34
+Mount Pleasant,General Commercial,1,12.47
+Mount Pleasant,Floating Zone,1,8.69
+Mount Pleasant,Planned Residential Historic Dev. Transitional,1,6.42
+Mount Pleasant,Hawthorne Hamlet Core,1,2.79
+Mount Vernon,One-Family Residence,9,916.03
+Mount Vernon,Three-Family Residence,11,515.02
+Mount Vernon,Two-Family Residence,8,372.30
+Mount Vernon,General Industrial,6,228.34
+Mount Vernon,Multiple Family Residenence,11,198.55
+Mount Vernon,Commercial Business,14,164.66
+Mount Vernon,Apartment House,14,145.20
+Mount Vernon,Neighborhood Business,20,126.00
+Mount Vernon,Downtown Business,5,63.67
+Mount Vernon,MVW - Hub,1,24.92
+Mount Vernon,Landscaped Industrial,3,19.49
+Mount Vernon,MVW - Transition,2,12.88
+Mount Vernon,MVW -C (Corridor),3,9.30
+Mount Vernon,Public Institutional,2,9.03
+Mount Vernon,Office Business,3,9.02
+Mount Vernon,MVW - Hub (Non-Commercial),1,1.64
+New Castle,One-Family Residence,49,14497.22
+New Castle,Multifamily Planned Development,4,108.71
+New Castle,Retail Business,8,94.39
+New Castle,Research and Office Business,1,85.21
+New Castle,General Industrial,3,65.30
+New Castle,Multifamily Residence - Millwoood,2,54.27
+New Castle,Designed Business,2,47.95
+New Castle,Planned Industrial,2,28.19
+New Castle,Multifamily Residence - Chappaqua,2,16.27
+New Castle,Retail Business and Parking,1,1.90
+New Rochelle,One Family Residence,55,3516.15
+New Rochelle,Recreation Open Space,33,920.35
+New Rochelle,Two Family Residence,14,585.86
+New Rochelle,Multi - Family Residence,70,456.03
+New Rochelle,One Family Historic Residence,1,168.77
+New Rochelle,Light Industry,11,132.80
+New Rochelle,Railroad,1,122.32
+New Rochelle,Neighborhood Business,15,95.45
+New Rochelle,Planned Unit Development,3,80.65
+New Rochelle,Large Scale Retail,3,79.86
+New Rochelle,One Family Waterfront Residential,2,67.93
+New Rochelle,Downtown Business,2,63.76
+New Rochelle,General Commercial Modified,4,61.41
+New Rochelle,Water Front Residence,6,43.25
+New Rochelle,North Avenue,2,42.20
+New Rochelle,Hospital,2,41.07
+New Rochelle,One Family Cluster Residence,4,31.12
+New Rochelle,Downtown Mixed Use,1,27.29
+New Rochelle,Planned Waterfront Development,4,21.67
+New Rochelle,Downtown Mixed Use Urban Renewal,1,18.46
+New Rochelle,Mixed Use Family Entertainment,1,14.13
+New Rochelle,Industry,1,14.08
+New Rochelle,Multi - Family Senior Citizen,4,6.89
+New Rochelle,Urban Renewal Townhouse Residence,1,5.26
+New Rochelle,College Related Uses,1,4.72
+North Castle,One-Family Residence,42,15318.83
+North Castle,Office Business,1,359.80
+North Castle,Designed Office Business 20A,1,203.20
+North Castle,Industrial AA,1,175.85
+North Castle,Planned Light Industry,1,134.31
+North Castle,"Golf Course Community
+Floating Overlay (GCCFO)",1,130.63
+North Castle,Multifamily Residence,1,101.13
+North Castle,Two-Family Residence,2,93.23
+North Castle,Central Business,4,65.19
+North Castle,Industrial A,1,60.68
+North Castle,"Research, Electronic, and Light Industrial",1,57.85
+North Castle,Professional Business Office,3,34.48
+North Castle,Office Business Hotel,1,32.78
+North Castle,Central Business B,1,32.12
+North Castle,General Business,3,26.84
+North Castle,Roadside Business,4,17.78
+North Castle,Professional Business Office 2,2,9.94
+North Castle,Multifamily-A Residence,2,8.64
+North Castle,Shopping Center,1,8.16
+North Castle,Multifamily - Senior Citizen Housing District,1,5.26
+North Castle,Nursery Business,1,4.24
+North Castle,Central Business A,1,3.60
+North Castle,Residence Office,1,2.04
+North Castle,Residential Multifamily - Single Structure,1,1.50
+North Salem,Rural Density Residential,1,10819.36
+North Salem,Medium Density Residential,12,2042.50
+North Salem,Low Density Residential,7,1667.20
+North Salem,Research-Office,1,120.10
+North Salem,Residential-Multi-Family/Medium Density,2,62.72
+North Salem,Professional Office,3,29.80
+North Salem,Planned Continuing Care Retirement Community,1,27.63
+North Salem,General Business,2,25.94
+North Salem,Medium-High Density Residential,2,25.89
+North Salem,Residential-Multi-Family/High-Density,1,22.68
+North Salem,Neighborhood Business,3,14.45
+Ossining Town,One-Family Residence,32,1613.51
+Ossining Town,Multi-Family,3,124.36
+Ossining Town,General Business,1,68.24
+Ossining Town,Business Education,1,55.79
+Ossining Town,Office-Research Manufacturing,2,49.79
+Ossining Town,General Business 1,1,9.29
+Ossining Town,Neighborhood Commercial,1,4.01
+Ossining Village,One-Family Residence,22,959.64
+Ossining Village,Two-Family Residence,4,268.95
+Ossining Village,Planned Residence District,5,211.24
+Ossining Village,Institutional Redevelopment,1,118.57
+Ossining Village,Multi-Family Residence,11,105.29
+Ossining Village,Village Center,1,50.37
+Ossining Village,Neighborhood Center,7,48.89
+Ossining Village,General Business,2,29.35
+Ossining Village,Central Waterfront - Transit,1,25.09
+Ossining Village,Conservation Development District,1,23.06
+Ossining Village,Professional Office,1,18.76
+Ossining Village,Planned Center,1,17.41
+Ossining Village,Office Research,3,17.09
+Ossining Village,Northern Waterfront,1,16.28
+Ossining Village,Central Waterfront - Hillside,1,15.90
+Ossining Village,Station Plaza North,1,3.43
+Ossining Village,Station Plaza South,1,1.05
+Peekskill,One-Family Residence,17,1406.53
+Peekskill,Planned Residential Development,3,388.14
+Peekskill,Low Density Multiple Residence,9,155.78
+Peekskill,General Industrial,2,125.28
+Peekskill,General Commercial,4,91.33
+Peekskill,Waterfront Adjacent,1,83.15
+Peekskill,One and Two-Family Residence,5,56.24
+Peekskill,Central Commercial,1,54.52
+Peekskill,Design Industrial District,1,51.00
+Peekskill,Neighborhood Commercial,6,44.91
+Peekskill,Waterfront Inland,1,43.44
+Peekskill,Central Multiple Residence,5,41.00
+Peekskill,"One, Two and Three-Family Residence",3,37.90
+Peekskill,Waterfront Planned Residential,1,32.43
+Peekskill,Medium-Density Multiple Residenses,1,29.48
+Peekskill,Shopping Center,1,29.30
+Peekskill,Industrial Park,1,28.97
+Peekskill,Industrial Design District,1,27.90
+Peekskill,One Family Residential,1,21.97
+Peekskill,Light Industrial,3,11.21
+Peekskill,Waterfront,2,10.39
+Peekskill,Shopping Center - Limited,2,9.94
+Peekskill,Planned Commercial Development,2,8.83
+Pelham,Detached Single-Family,7,402.44
+Pelham,Detached Single- & Two- Family,6,67.17
+Pelham,Restricted Retail,3,15.20
+Pelham,"General Retail, Service & Restricted Industrial",1,13.12
+Pelham,Office Buildings,2,11.91
+Pelham,General Retail,1,10.71
+Pelham,Detached & Semidetached Single-Family,1,10.01
+Pelham Manor,Residence A,4,299.97
+Pelham Manor,Residence B,2,112.52
+Pelham Manor,Residence AAA,1,102.14
+Pelham Manor,Residence AA,2,87.55
+Pelham Manor,Business 3,1,63.17
+Pelham Manor,Hutchinson River Parkway ROW,1,52.49
+Pelham Manor,Recreation,2,41.91
+Pelham Manor,Park,4,36.51
+Pelham Manor,Mulitfamily,1,24.41
+Pelham Manor,I-95 Railroad Corridor,1,16.52
+Pelham Manor,Railroad,1,13.31
+Pelham Manor,Business 1,1,11.86
+Pelham Manor,Retail,1,6.58
+Pleasantville,One-Family Residence,16,786.89
+Pleasantville,Two-Family Residence,3,94.43
+Pleasantville,Planned Unit Development,2,72.03
+Pleasantville,Planned Light Manufacturing,1,66.82
+Pleasantville,Central Business,2,36.33
+Pleasantville,Campus Office,1,35.20
+Pleasantville,Multiple Dwelling Family Residence,5,17.70
+Pleasantville,Peripheral Business,4,13.81
+Pleasantville,Residence-Professional Office,1,8.92
+Pleasantville,Multiple Dwelling Three-Family,2,8.45
+Pleasantville,Medium Density Residence/Office,1,7.18
+Port Chester,One-Family Residence,4,471.96
+Port Chester,Two-Family Residence,8,327.26
+Port Chester,One Family Residence,3,216.71
+Port Chester,Multi-Family Residence,13,73.95
+Port Chester,Designed Commercial,1,65.09
+Port Chester,Neighborhood Retail,9,43.37
+Port Chester,General Industrial,3,41.02
+Port Chester,Designed Waterfront Development,2,40.39
+Port Chester,Central Business,1,40.28
+Port Chester,General Commercial,8,37.76
+Port Chester,Marina Urban Redevelopment,1,30.70
+Port Chester,Planned Residence District,3,22.78
+Port Chester,Planned Mixed-Use,1,16.73
+Port Chester,Multi Family Residence,4,16.18
+Port Chester,Design Office and Commercial,5,13.24
+Port Chester,Train Station Mixed-Use,1,10.17
+Port Chester,Gateway Retail,1,8.57
+Port Chester,Residential Office Overlay,1,5.29
+Port Chester,Village Center Redevelopment A,2,5.28
+Port Chester,Downtown Design Waterfront,1,5.16
+Port Chester,Nonresidential Planned Development,1,2.93
+Port Chester,Downtown Mixed-Use Transitional,3,1.87
+Port Chester,Special Design Commercial,1,1.46
+Port Chester,Transitional Residential Development,1,1.17
+Pound Ridge,Residential,6,14679.59
+Pound Ridge,"Landscape, Nusery and Garden Center",1,47.42
+Pound Ridge,Planned B,4,43.76
+Rye Brook,One-Family Residential,15,1302.83
+Rye Brook,Campus/Office Building,3,310.47
+Rye Brook,Planned Unit Development,3,303.77
+Rye Brook,Two-Family Residential,1,119.92
+Rye Brook,Office Building,2,85.02
+Rye Brook,Hotel,2,49.80
+Rye Brook,Planned Neighborhood Retail,1,15.91
+Rye Brook,Restricted Multi-Family,1,15.82
+Rye Brook,Neighborhood Retail,2,9.00
+Rye Brook,Office Building & Business District,2,8.07
+Rye City,One-Family,45,2792.88
+Rye City,Conservation District,2,203.23
+Rye City,Office Building,4,162.57
+Rye City,Waterfront Recreation District,1,127.30
+Rye City,Membership Club District,2,100.71
+Rye City,Apartment,10,89.63
+Rye City,Neighborhood Business,12,58.34
+Rye City,School and Church,2,44.94
+Rye City,Two-Family,3,35.95
+Rye City,Interchange Office Building,1,33.78
+Rye City,Central Business,1,26.97
+Rye City,General Business,2,22.73
+Rye City,Residential Floodplain/Wetland,1,14.83
+Rye City,Garden Apartment,3,8.19
+Rye City,Beach Business,1,7.18
+Rye City,Senior Citizens Apartment,2,4.37
+Rye City,Waterfront Business,1,2.32
+Scarsdale,One-Family Residence,34,4241.79
+Scarsdale,Planned Unit Development,2,11.33
+Scarsdale,Village Center Retail,4,7.48
+Scarsdale,Business Districts,2,7.09
+Scarsdale,Residence,2,4.23
+Scarsdale,Village Center Office,2,3.91
+Scarsdale,Buffer Parking,3,3.16
+Sleepy Hollow,Parks,9,356.69
+Sleepy Hollow,"One-Family Residence, Open",2,315.45
+Sleepy Hollow,"One Family Residence, Low Density",2,288.31
+Sleepy Hollow,Riverfront Development,2,102.20
+Sleepy Hollow,Cemetery Area,1,94.19
+Sleepy Hollow,Hospital,1,65.75
+Sleepy Hollow,"Multiple Residence, Medium Density",3,50.93
+Sleepy Hollow,"Residence, One and Two Family",1,46.33
+Sleepy Hollow,Central Commercial,2,37.72
+Sleepy Hollow,Railroad Corridor Unzoned,1,31.57
+Sleepy Hollow,"One-Family Residence, Medium D",3,31.24
+Sleepy Hollow,Highway Commercial,1,15.33
+Sleepy Hollow,"Multiple Residence, High Density",1,5.04
+Sleepy Hollow,Public Parking Area,3,3.24
+Sleepy Hollow,"Residence/Commercial, 1-2 Family",1,2.37
+Sleepy Hollow,Hudson River,1,0.12
+Somers,Residence R120,3,8018.59
+Somers,Residence R80,13,6852.60
+Somers,Residence R40,11,2365.34
+Somers,Designed Residential Development,1,1110.65
+Somers,Residence R10,5,856.29
+Somers,Office Business,1,752.77
+Somers,Corporate Research/Office,1,207.19
+Somers,Neighborhood Shopping,7,118.57
+Somers,Planned Hamlet,1,84.02
+Somers,Business Historic Preservation,1,71.75
+Somers,Office and Light Industry,2,70.03
+Somers,Beach-Community House,5,67.42
+Somers,Multi-Family Residence Hamlet,1,35.27
+Somers,Community Shopping,1,29.43
+Tarrytown,One-Family Residence,31,1197.00
+Tarrytown,Office Building,5,230.85
+Tarrytown,Historic Commons,2,155.99
+Tarrytown,Multi-Family Residence,20,147.52
+Tarrytown,Mixed Use,2,57.83
+Tarrytown,Waterfront,1,55.68
+Tarrytown,Restricted Retail,2,43.09
+Tarrytown,Waterfront General Business District,1,27.88
+Tarrytown,Limited Business,2,22.53
+Tarrytown,Neighborhood Shopping,3,15.34
+Tarrytown,General Business,2,12.19
+Tarrytown,Industrial,2,8.46
+Tuckahoe,Residence,5,142.27
+Tuckahoe,Residence (Two Family),8,101.06
+Tuckahoe,Apartment,9,41.01
+Tuckahoe,Unzoned,3,28.20
+Tuckahoe,Business,2,27.71
+Tuckahoe,General Commercial,1,26.98
+Tuckahoe,Business/Residential,2,9.99
+Tuckahoe,Industry,3,5.89
+White Plains,Residential One Family,24,4493.74
+White Plains,Residential One and Two Family,14,454.98
+White Plains,Residential Multi-Family,35,428.82
+White Plains,Campus Office,3,347.36
+White Plains,Core Business-4,1,91.75
+White Plains,Intermediate Business,6,88.49
+White Plains,Light Industrial,5,84.93
+White Plains,Residential Townhouse,5,62.51
+White Plains,Restricted Business,1,44.53
+White Plains,Enclosed Mall,3,35.13
+White Plains,Core Business-3,2,33.88
+White Plains,Neighborhood Business,5,30.23
+White Plains,Planned Senior Residential Development District,1,25.46
+White Plains,Core Business-2,1,23.53
+White Plains,Core Business-1,1,20.56
+White Plains,Business Residential -1,1,18.61
+White Plains,Urban Renewal Central Business,1,16.72
+White Plains,Office-Residential,1,12.40
+White Plains,Business Residential -2,1,6.51
+Yonkers,Detached 1 Family Dwelling,68,5930.85
+Yonkers,2 Family Dwellings,37,1371.84
+Yonkers,"Apartment Houses, Medium Densi",26,818.01
+Yonkers,"Industry, Residences Excluded",13,635.79
+Yonkers,"Apartment Houses, Low Density",25,623.95
+Yonkers,"Elevator Apartment, High Density",16,486.46
+Yonkers,"Restricted Business, Residence",20,402.19
+Yonkers,"Commercial, Storage, Light Manufacturing",24,274.32
+Yonkers,"Planned Industrial, Residences",4,230.07
+Yonkers,Neighborhood Business & Apt.'s,32,185.53
+Yonkers,General Business and Apt. Housing,24,171.28
+Yonkers,"Colleges, Univ.'s and Theological Seminaries",4,150.65
+Yonkers,Planned Executive Park (Floating Zone),1,145.90
+Yonkers,Office Buildings and Research,6,111.15
+Yonkers,Planned Multi-Use District,1,82.00
+Yonkers,Wholesale Business and Storage,10,51.60
+Yonkers,Central Business District,1,39.53
+Yonkers,Downtown Waterfront District,1,28.85
+Yonkers,Government Center District,1,21.10
+Yonkers,Planned Urban Redevelopment,2,7.09
+Yorktown,One-Family Residential,72,23342.03
+Yorktown,Research Laboratory and Office,3,300.01
+Yorktown,Age-Oriented Community,2,220.15
+Yorktown,Multi-Family Residential,10,165.92
+Yorktown,Country Commercial Business District,6,126.71
+Yorktown,Light Industrial Park District,2,110.91
+Yorktown,Planned Retail Business,6,104.97
+Yorktown,Highway Commercial,7,102.81
+Yorktown,Continuous Care,1,93.57
+Yorktown,Local Retail Business,11,85.34
+Yorktown,Light Industrial District,1,83.23
+Yorktown,General Commercial,8,80.09
+Yorktown,Office District,9,74.72
+Yorktown,Senior Citizens Development,4,74.49
+Yorktown,Commercial Regional Center,1,58.19
+Yorktown,Two-Family Residential,6,48.83
+Yorktown,Commercial Hamlet Center,2,48.39
+Yorktown,Commercial Recreation,1,47.26
+Yorktown,Planned Interchange District,1,13.70
+Yorktown,Transitional Zone,2,1.82
+,Riverfront Development District,1,176.31
+,One-Family Residence,3,172.04
+,Waterfront Recreation District,1,158.77
+,Conservation District,1,151.27
+,Waterfront Development,1,120.77
+,Single-Family Residence,1,117.42
+,Office Research,1,116.56
+,Conservation Development District,1,103.48
+,"Planned Industrial, Residences",1,65.60
+,Water Front Residence,1,53.19
+,"Elevator Apartment, High Density",1,38.88
+,Waterfront Commercial,1,31.18
+,Planned Urban Redevelopment,1,28.74
+,Multi - Family Residence,1,26.71
+,One Family Residence,2,24.09
+,Marine Waterfront,1,19.03

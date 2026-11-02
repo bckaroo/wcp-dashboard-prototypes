@@ -1,0 +1,34 @@
+indicator,acs_column,label,unit,theme,moe_column,status_column
+total_population,b01003_001,Total population,persons,Population & demographics,b01003_001_moe,b01003_001_status
+median_age,b01002_001,Median age,years,Population & demographics,b01002_001_moe,b01002_001_status
+population_under18,ageunder18,Population under 18,persons,Population & demographics,ageunder18_moe,ageunder18_status
+population_65plus,age65plus,Population 65 and over,persons,Population & demographics,age65plus_moe,age65plus_status
+households,b11001_001,Households,households,Population & demographics,b11001_001_moe,b11001_001_status
+avg_household_size,b25010_001,Average household size,persons per household,Population & demographics,b25010_001_moe,b25010_001_status
+pct_foreign_born,pct_foreign_born,Foreign-born share,percent,Population & demographics,pct_foreign_born_moe,pct_foreign_born_status
+median_household_income,b19013_001,Median household income,USD (2024 inflation-adjusted),Income & economy,b19013_001_moe,b19013_001_status
+per_capita_income,b19301_001,Per capita income,USD,Income & economy,b19301_001_moe,b19301_001_status
+gini_index,b19083_001,Gini index of income inequality,index 0-1,Income & economy,b19083_001_moe,b19083_001_status
+poverty_rate,pov_rate,Poverty rate (all ages),percent,Income & economy,pov_rate_moe,pov_rate_status
+labor_force,b23025_002,In labor force,persons,Income & economy,b23025_002_moe,b23025_002_status
+employed,b23025_004,Employed civilian,persons,Income & economy,b23025_004_moe,b23025_004_status
+unemployed,b23025_005,Unemployed,persons,Income & economy,b23025_005_moe,b23025_005_status
+pct_bachelors_plus,pct_ba_plus,Population 25+ with bachelor's degree or higher,percent,Education,pct_ba_plus_moe,pct_ba_plus_status
+school_enrolled,b14001_001,Population enrolled in school,persons,Education,b14001_001_moe,b14001_001_status
+housing_units,b25001_001,Housing units,units,Housing,b25001_001_moe,b25001_001_status
+occupied_units,b25002_002,Occupied housing units,units,Housing,b25002_002_moe,b25002_002_status
+vacancy_rate,vacancy_rate,Vacancy rate,percent,Housing,vacancy_rate_moe,vacancy_rate_status
+owner_rate,owner_rate,Homeownership rate,percent,Housing,owner_rate_moe,owner_rate_status
+renter_rate,renter_rate,Renter rate,percent,Housing,renter_rate_moe,renter_rate_status
+median_home_value,b25077_001,"Median value, owner-occupied homes",USD,Housing,b25077_001_moe,b25077_001_status
+median_gross_rent,b25064_001,Median gross rent,USD per month,Housing,b25064_001_moe,b25064_001_status
+pct_rent_burden30,pct_rent_burden30,Renter households paying 30%+ of income on rent,percent,Housing,pct_rent_burden30_moe,pct_rent_burden30_status
+single_family_detached,b25024_002,Single-family detached units,units,Housing,b25024_002_moe,b25024_002_status
+multi_family_5plus,b25024_007,Units in buildings with 5+ units,units,Housing,b25024_007_moe,b25024_007_status
+mean_travel_time,mean_travel_time,Mean travel time to work,minutes,Transportation & commute,mean_travel_time_moe,mean_travel_time_status
+pct_transit,pct_transit,Commute by public transit,percent,Transportation & commute,pct_transit_moe,pct_transit_status
+pct_drove_alone,pct_drove_alone,"Commute by car, truck or van - drove alone",percent,Transportation & commute,pct_drove_alone_moe,pct_drove_alone_status
+pct_work_from_home,pct_wfh,Worked from home,percent,Transportation & commute,pct_wfh_moe,pct_wfh_status
+pct_no_vehicle,pct_no_vehicle,Households with no vehicle available,percent,Transportation & commute,pct_no_vehicle_moe,pct_no_vehicle_status
+pct_disability,pct_disability,Population with a disability,percent,Health & access,pct_disability_moe,pct_disability_status
+pct_uninsured,pct_uninsured,Population without health insurance,percent,Health & access,pct_uninsured_moe,pct_uninsured_status
